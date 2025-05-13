@@ -1,0 +1,1297 @@
+{
+    "Programación": [
+        {
+            "pregunta": "¿Qué tipo de datos en Python se utiliza para almacenar texto?",
+            "opciones": [
+                "String",
+                "List",
+                "Integer",
+                "Boolean"
+            ],
+            "respuesta": 1,
+            "explicacion": "El tipo de dato String se usa para almacenar secuencias de caracteres.",
+            "pista": "Es una palabra que empieza con 'S' y significa 'cadena' en inglés."
+        },
+        {
+            "pregunta": "¿Qué operador se utiliza en Python para la potencia de un número?",
+            "opciones": [
+                "^",
+                "**",
+                "/",
+                "%"
+            ],
+            "respuesta": 2,
+            "explicacion": "El operador '**' se usa en Python para realizar potencias.",
+            "pista": "Es dos asteriscos seguidos."
+        },
+        {
+            "pregunta": "¿Qué función en Python permite leer la entrada del usuario?",
+            "opciones": [
+                "input()",
+                "read()",
+                "get()",
+                "scanf()"
+            ],
+            "respuesta": 1,
+            "explicacion": "La función input() se usa para leer la entrada de datos desde el teclado.",
+            "pista": "Su nombre implica lo que hace: tomar una entrada."
+        },
+        {
+            "pregunta": "¿Qué significa 'self' dentro de un método de una clase en Python?",
+            "opciones": [
+                "Una variable global",
+                "El objeto mismo",
+                "Una función externa",
+                "Un parámetro opcional"
+            ],
+            "respuesta": 2,
+            "explicacion": "'self' hace referencia al objeto actual dentro de un método de clase.",
+            "pista": "Es una convención utilizada en la programación orientada a objetos."
+        },
+        {
+            "pregunta": "¿Cuál es la diferencia entre 'append()' y 'extend()' en Python?",
+            "opciones": [
+                "'append()' agrega un solo elemento, 'extend()' agrega varios",
+                "'append()' es más rápido",
+                "'extend()' modifica la lista original",
+                "'append()' es recursivo"
+            ],
+            "respuesta": 1,
+            "explicacion": "append() agrega un solo elemento al final, mientras que extend() agrega todos los elementos de un iterable.",
+            "pista": "Ambos se usan para agregar elementos a una lista."
+        },
+        {
+            "pregunta": "¿Qué hace la función 'range()' en Python?",
+            "opciones": [
+                "Devuelve una lista de números",
+                "Genera una secuencia de números",
+                "Crea una variable aleatoria",
+                "Devuelve un número aleatorio"
+            ],
+            "respuesta": 2,
+            "explicacion": "La función range() genera una secuencia de números que se puede iterar.",
+            "pista": "Se utiliza en bucles como 'for'."
+        },
+        {
+            "pregunta": "¿Cómo se puede definir una función en Python?",
+            "opciones": [
+                "def funcion():",
+                "create funcion():",
+                "function() { }",
+                "function = () => {}"
+            ],
+            "respuesta": 1,
+            "explicacion": "En Python, las funciones se definen utilizando la palabra clave 'def'.",
+            "pista": "Es la palabra clave más común para definir funciones."
+        },
+        {
+            "pregunta": "¿Qué significa el error 'IndexError' en Python?",
+            "opciones": [
+                "Acceder a un índice fuera del rango",
+                "Error en la indentación",
+                "Un valor es nulo",
+                "Un archivo no encontrado"
+            ],
+            "respuesta": 1,
+            "explicacion": "'IndexError' ocurre cuando intentas acceder a un índice que no existe en una lista o cadena.",
+            "pista": "Está relacionado con los índices en las listas."
+        },
+        {
+            "pregunta": "¿Qué estructura de datos en Python permite almacenar elementos sin repetirlos?",
+            "opciones": [
+                "Lista",
+                "Conjunto",
+                "Diccionario",
+                "Tupla"
+            ],
+            "respuesta": 2,
+            "explicacion": "Un conjunto (set) en Python almacena elementos únicos, sin duplicados.",
+            "pista": "Es como una lista, pero sin repeticiones."
+        },
+        {
+            "pregunta": "¿Qué comando se utiliza para importar una biblioteca externa en Python?",
+            "opciones": [
+                "import",
+                "require",
+                "include",
+                "use"
+            ],
+            "respuesta": 1,
+            "explicacion": "Para importar un módulo o biblioteca en Python, se utiliza la palabra clave 'import'.",
+            "pista": "Es una palabra clave, muy sencilla y directa."
+        },
+        {
+            "pregunta": "¿Cómo se crea un diccionario vacío en Python?",
+            "opciones": [
+                "{}",
+                "[]",
+                "()",
+                "dict()"
+            ],
+            "respuesta": 1,
+            "explicacion": "Un diccionario vacío se crea usando las llaves '{}' o dict().",
+            "pista": "Es un contenedor clave-valor."
+        },
+        {
+            "pregunta": "¿Qué operador lógico se usa para verificar si dos condiciones son verdaderas en Python?",
+            "opciones": [
+                "&",
+                "and",
+                "or",
+                "&&"
+            ],
+            "respuesta": 2,
+            "explicacion": "El operador 'and' se utiliza para comprobar si dos condiciones son verdaderas.",
+            "pista": "Es uno de los operadores más comunes para combinaciones de condiciones."
+        },
+        {
+            "pregunta": "¿Cuál es el propósito de la función 'lambda' en Python?",
+            "opciones": [
+                "Definir una función anónima",
+                "Crear una variable",
+                "Modificar un diccionario",
+                "Definir una constante"
+            ],
+            "respuesta": 1,
+            "explicacion": "Una función lambda permite crear funciones pequeñas y anónimas.",
+            "pista": "Es una forma de crear funciones en una sola línea."
+        },
+        {
+            "pregunta": "¿Qué se entiende por 'list comprehension' en Python?",
+            "opciones": [
+                "Creación de listas de manera compacta",
+                "Creación de diccionarios",
+                "Conversión de listas a tuplas",
+                "Acceso a listas con índices negativos"
+            ],
+            "respuesta": 1,
+            "explicacion": "List comprehension permite crear nuevas listas de manera compacta y eficiente.",
+            "pista": "Suele ser un solo renglón que utiliza corchetes."
+        },
+        {
+            "pregunta": "¿Cómo puedes verificar el tipo de una variable en Python?",
+            "opciones": [
+                "type()",
+                "isinstance()",
+                "check()",
+                "kind()"
+            ],
+            "respuesta": 1,
+            "explicacion": "La función type() devuelve el tipo de la variable.",
+            "pista": "Es la forma más directa y rápida de obtener el tipo."
+        },
+        {
+            "pregunta": "¿Qué función permite ordenar una lista en Python?",
+            "opciones": [
+                "sort()",
+                "order()",
+                "arrange()",
+                "sorted()"
+            ],
+            "respuesta": 1,
+            "explicacion": "La función sort() ordena los elementos de una lista en su lugar.",
+            "pista": "Es similar a 'sorted()', pero ordena la lista directamente."
+        },
+        {
+            "pregunta": "¿Qué hace el operador '%' en Python?",
+            "opciones": [
+                "División",
+                "Multiplicación",
+                "Resto de una división",
+                "Elevación a potencia"
+            ],
+            "respuesta": 3,
+            "explicacion": "El operador '%' devuelve el resto de una división.",
+            "pista": "Es común en operaciones matemáticas."
+        },
+        {
+            "pregunta": "¿Cómo se puede agregar un comentario en una sola línea en Python?",
+            "opciones": [
+                "//",
+                "/* comentario */",
+                "#",
+                "comment:"
+            ],
+            "respuesta": 3,
+            "explicacion": "Los comentarios en Python se crean con el símbolo '#'.",
+            "pista": "Este símbolo indica que todo lo que sigue es ignorado por el intérprete."
+        },
+        {
+            "pregunta": "¿Cómo se definen múltiples variables con un solo comando en Python?",
+            "opciones": [
+                "x = y = z = 0",
+                "x, y = 0",
+                "var1 var2 = 1",
+                "x & y = 2"
+            ],
+            "respuesta": 1,
+            "explicacion": "Se pueden asignar múltiples variables de la misma forma, separando con '='.",
+            "pista": "Es una forma compacta de inicializar varias variables a la vez."
+        },
+        {
+            "pregunta": "¿Cuál es la principal diferencia entre una lista y una tupla en Python?",
+            "opciones": [
+                "Las listas son inmutables",
+                "Las tuplas son mutables",
+                "Las listas pueden cambiar, las tuplas no",
+                "Las listas no pueden contener elementos repetidos"
+            ],
+            "respuesta": 3,
+            "explicacion": "Las tuplas son inmutables, lo que significa que no puedes modificar sus elementos después de su creación.",
+            "pista": "Piensa en una lista como algo que puedes modificar y en una tupla como algo que no."
+        }
+    ],
+    "Geografía": [
+        {
+            "pregunta": "¿Cuál es el país más grande de África por superficie?",
+            "opciones": [
+                "Sudáfrica",
+                "Argelia",
+                "Nigeria",
+                "Egipto"
+            ],
+            "respuesta": 2,
+            "explicacion": "Argelia es el país más grande de África, con una vasta extensión de desiertos y montañas.",
+            "pista": "Está en el norte de África y tiene una costa mediterránea."
+        },
+        {
+            "pregunta": "¿Cuál es el río más largo de América del Sur?",
+            "opciones": [
+                "Amazonas",
+                "Paraná",
+                "Orinoco",
+                "Magdalena"
+            ],
+            "respuesta": 1,
+            "explicacion": "El río Amazonas es el más largo y caudaloso de América del Sur, y uno de los más largos del mundo.",
+            "pista": "Este río atraviesa varios países y tiene una vasta selva a sus alrededores."
+        },
+        {
+            "pregunta": "¿Cuál es la capital de Canadá?",
+            "opciones": [
+                "Montreal",
+                "Vancouver",
+                "Ottawa",
+                "Toronto"
+            ],
+            "respuesta": 3,
+            "explicacion": "Ottawa es la capital de Canadá, situada en la provincia de Ontario.",
+            "pista": "Es una ciudad conocida por su arquitectura gubernamental y su proximidad al río Ottawa."
+        },
+        {
+            "pregunta": "¿En qué continente se encuentra el desierto del Sahara?",
+            "opciones": [
+                "Asia",
+                "América",
+                "Europa",
+                "África"
+            ],
+            "respuesta": 4,
+            "explicacion": "El Sahara es el desierto cálido más grande del mundo, y se encuentra en el continente africano.",
+            "pista": "Es conocido por sus vastas dunas de arena."
+        },
+        {
+            "pregunta": "¿Qué país tiene más islas en el mundo?",
+            "opciones": [
+                "Suecia",
+                "Canadá",
+                "Noruega",
+                "Australia"
+            ],
+            "respuesta": 1,
+            "explicacion": "Suecia tiene más de 267,000 islas, lo que lo convierte en el país con más islas.",
+            "pista": "Este país está ubicado en el norte de Europa."
+        },
+        {
+            "pregunta": "¿Cuál es la montaña más alta del mundo?",
+            "opciones": [
+                "K2",
+                "Everest",
+                "Makalu",
+                "Kangchenjunga"
+            ],
+            "respuesta": 2,
+            "explicacion": "El monte Everest, con 8,848 metros sobre el nivel del mar, es la montaña más alta del mundo.",
+            "pista": "Se encuentra en la frontera entre Nepal y China."
+        },
+        {
+            "pregunta": "¿En qué océano se encuentra la isla de Madagascar?",
+            "opciones": [
+                "Atlántico",
+                "Índico",
+                "Pacífico",
+                "Ártico"
+            ],
+            "respuesta": 2,
+            "explicacion": "Madagascar se encuentra en el océano Índico, al este de África.",
+            "pista": "Es famosa por su biodiversidad única."
+        },
+        {
+            "pregunta": "¿Qué país tiene la mayor población del mundo?",
+            "opciones": [
+                "India",
+                "Estados Unidos",
+                "China",
+                "Indonesia"
+            ],
+            "respuesta": 3,
+            "explicacion": "China tiene la mayor población del mundo, con más de 1.400 millones de personas.",
+            "pista": "Este país es conocido por la Gran Muralla China."
+        },
+        {
+            "pregunta": "¿Cuál es el lago más grande de África?",
+            "opciones": [
+                "Lago Victoria",
+                "Lago Tanganyika",
+                "Lago Malawi",
+                "Lago Chad"
+            ],
+            "respuesta": 1,
+            "explicacion": "El Lago Victoria, con 68,800 km², es el más grande de África.",
+            "pista": "Se encuentra entre tres países: Uganda, Kenia y Tanzania."
+        },
+        {
+            "pregunta": "¿Qué país tiene la mayor extensión territorial en América del Sur?",
+            "opciones": [
+                "Argentina",
+                "Brasil",
+                "Chile",
+                "Colombia"
+            ],
+            "respuesta": 2,
+            "explicacion": "Brasil es el país más grande de América del Sur, con una gran diversidad geográfica.",
+            "pista": "Este país es conocido por la selva amazónica."
+        },
+        {
+            "pregunta": "¿En qué océano se encuentra la isla de Hawái?",
+            "opciones": [
+                "Atlántico",
+                "Índico",
+                "Pacífico",
+                "Ártico"
+            ],
+            "respuesta": 3,
+            "explicacion": "Hawái se encuentra en el océano Pacífico central.",
+            "pista": "Es un archipiélago en medio del océano."
+        },
+        {
+            "pregunta": "¿Cuál es el país más pequeño de América Central?",
+            "opciones": [
+                "Panamá",
+                "Costa Rica",
+                "Belice",
+                "Honduras"
+            ],
+            "respuesta": 3,
+            "explicacion": "Belice es el país más pequeño de América Central, tanto en área como en población.",
+            "pista": "Este país tiene una costa en el mar Caribe."
+        },
+        {
+            "pregunta": "¿Qué ciudad es conocida como la 'Ciudad Eterna'?",
+            "opciones": [
+                "Atenas",
+                "Roma",
+                "Madrid",
+                "París"
+            ],
+            "respuesta": 2,
+            "explicacion": "Roma es conocida como la 'Ciudad Eterna' debido a su larga y rica historia.",
+            "pista": "Es la capital de Italia y tiene monumentos antiguos como el Coliseo."
+        },
+        {
+            "pregunta": "¿Cuál es la capital de Australia?",
+            "opciones": [
+                "Sídney",
+                "Melbourne",
+                "Brisbane",
+                "Canberra"
+            ],
+            "respuesta": 4,
+            "explicacion": "Canberra es la capital administrativa de Australia, no Sídney ni Melbourne.",
+            "pista": "Está ubicada entre Sídney y Melbourne."
+        },
+        {
+            "pregunta": "¿En qué continente se encuentra el monte Kilimanjaro?",
+            "opciones": [
+                "Asia",
+                "Europa",
+                "África",
+                "América"
+            ],
+            "respuesta": 3,
+            "explicacion": "El monte Kilimanjaro es la montaña más alta de África, situada en Tanzania.",
+            "pista": "Es un volcán dormido."
+        },
+        {
+            "pregunta": "¿Qué país tiene una forma parecida a un zapato?",
+            "opciones": [
+                "Italia",
+                "Grecia",
+                "España",
+                "Turquía"
+            ],
+            "respuesta": 1,
+            "explicacion": "Italia tiene la forma de una bota, característica en los mapas.",
+            "pista": "Este país es famoso por su comida, como la pizza y la pasta."
+        },
+        {
+            "pregunta": "¿En qué continente se encuentra el país de Egipto?",
+            "opciones": [
+                "Asia",
+                "África",
+                "Europa",
+                "Oceanía"
+            ],
+            "respuesta": 2,
+            "explicacion": "Egipto está situado en el noreste de África, aunque parte de su territorio también se extiende a Asia.",
+            "pista": "Este país es conocido por las pirámides y el río Nilo."
+        },
+        {
+            "pregunta": "¿Cuál es la capital de Japón?",
+            "opciones": [
+                "Seúl",
+                "Tokio",
+                "Pekín",
+                "Hong Kong"
+            ],
+            "respuesta": 2,
+            "explicacion": "Tokio es la capital de Japón, una de las ciudades más grandes y tecnológicamente avanzadas del mundo.",
+            "pista": "Es una metrópolis muy conocida por su tecnología y cultura pop."
+        },
+        {
+            "pregunta": "¿Qué mar está ubicado entre Europa y África?",
+            "opciones": [
+                "Mar del Norte",
+                "Mar Mediterráneo",
+                "Mar Negro",
+                "Mar Rojo"
+            ],
+            "respuesta": 2,
+            "explicacion": "El Mar Mediterráneo separa Europa de África y conecta con el océano Atlántico.",
+            "pista": "Es un mar muy importante en la historia y el comercio de ambos continentes."
+        },
+        {
+            "pregunta": "¿Qué país es conocido por tener una gran cantidad de fiordos?",
+            "opciones": [
+                "Suecia",
+                "Noruega",
+                "Finlandia",
+                "Dinamarca"
+            ],
+            "respuesta": 2,
+            "explicacion": "Noruega es famosa por sus impresionantes fiordos, que son valles glaciares inundados por el mar.",
+            "pista": "Este país está en el norte de Europa."
+        }
+    ],
+    "Historia": [
+        {
+            "pregunta": "¿Quién fue el líder del Imperio Mongol durante su expansión más grande?",
+            "opciones": [
+                "Kublai Khan",
+                "Atila el Huno",
+                "Gengis Kan",
+                "Cyrus el Grande"
+            ],
+            "respuesta": 3,
+            "explicacion": "Gengis Kan fundó el Imperio Mongol y lo expandió a través de grandes conquistas.",
+            "pista": "Este líder es conocido por su habilidad en la guerra y por unificar las tribus mongolas."
+        },
+        {
+            "pregunta": "¿En qué año comenzó la Revolución Francesa?",
+            "opciones": [
+                "1789",
+                "1792",
+                "1776",
+                "1800"
+            ],
+            "respuesta": 1,
+            "explicacion": "La Revolución Francesa comenzó en 1789 y marcó un cambio fundamental en la política europea.",
+            "pista": "Fue el año en que la toma de la Bastilla ocurrió."
+        },
+        {
+            "pregunta": "¿Qué imperio construyó el coloso de Rodas, una de las siete maravillas del mundo antiguo?",
+            "opciones": [
+                "Imperio Romano",
+                "Imperio Griego",
+                "Imperio Egipcio",
+                "Imperio Persa"
+            ],
+            "respuesta": 2,
+            "explicacion": "El coloso de Rodas fue construido por los griegos y fue una de las maravillas del mundo antiguo.",
+            "pista": "Este imperio dominaba áreas del este del mar Mediterráneo."
+        },
+        {
+            "pregunta": "¿En qué año terminó la Segunda Guerra Mundial?",
+            "opciones": [
+                "1945",
+                "1940",
+                "1950",
+                "1939"
+            ],
+            "respuesta": 1,
+            "explicacion": "La Segunda Guerra Mundial terminó en 1945 con la rendición de Alemania y Japón.",
+            "pista": "Fue el mismo año en que se lanzaron las bombas atómicas en Japón."
+        },
+        {
+            "pregunta": "¿Quién fue el primer presidente de los Estados Unidos?",
+            "opciones": [
+                "Thomas Jefferson",
+                "Abraham Lincoln",
+                "George Washington",
+                "John Adams"
+            ],
+            "respuesta": 3,
+            "explicacion": "George Washington fue el primer presidente de los Estados Unidos, sirviendo de 1789 a 1797.",
+            "pista": "Este presidente también fue comandante en jefe durante la Revolución Americana."
+        },
+        {
+            "pregunta": "¿Qué civilización antigua construyó las pirámides de Giza?",
+            "opciones": [
+                "Griega",
+                "Romana",
+                "Egipcia",
+                "Mesopotámica"
+            ],
+            "respuesta": 3,
+            "explicacion": "Las pirámides de Giza fueron construidas por los antiguos egipcios durante el Reino Antiguo.",
+            "pista": "Esta civilización desarrolló una escritura conocida como jeroglíficos."
+        },
+        {
+            "pregunta": "¿Qué monarca inglés es conocido por haber tenido seis esposas?",
+            "opciones": [
+                "Rey Enrique VIII",
+                "Rey Eduardo VI",
+                "Reina Isabel I",
+                "Rey Jorge III"
+            ],
+            "respuesta": 1,
+            "explicacion": "El rey Enrique VIII de Inglaterra tuvo seis esposas durante su vida.",
+            "pista": "Su búsqueda por un heredero masculino cambió la religión de Inglaterra."
+        },
+        {
+            "pregunta": "¿Qué evento histórico tuvo lugar el 11 de septiembre de 2001?",
+            "opciones": [
+                "El ataque a Pearl Harbor",
+                "La caída de las Torres Gemelas",
+                "La guerra de Vietnam",
+                "La independencia de Estados Unidos"
+            ],
+            "respuesta": 2,
+            "explicacion": "El 11 de septiembre de 2001, terroristas atacaron las Torres Gemelas en Nueva York, un evento que cambió la historia moderna.",
+            "pista": "Este evento llevó a Estados Unidos a iniciar la Guerra contra el Terror."
+        },
+        {
+            "pregunta": "¿Qué imperio fue derrotado en la batalla de Waterloo en 1815?",
+            "opciones": [
+                "Imperio Romano",
+                "Imperio Napoleónico",
+                "Imperio Británico",
+                "Imperio Otomano"
+            ],
+            "respuesta": 2,
+            "explicacion": "Napoleón Bonaparte fue derrotado en la batalla de Waterloo, lo que marcó el fin de su imperio.",
+            "pista": "Este imperio fue liderado por un hombre conocido como 'El Corsario'."
+        },
+        {
+            "pregunta": "¿Cuál fue el nombre de la famosa ruta utilizada por los esclavos en América del Norte?",
+            "opciones": [
+                "Camino de Santiago",
+                "Ruta de la Seda",
+                "Camino de la Libertad",
+                "Ferrocarril Subterráneo"
+            ],
+            "respuesta": 4,
+            "explicacion": "El Ferrocarril Subterráneo era una red secreta de rutas que ayudaban a los esclavos a escapar hacia la libertad en el norte.",
+            "pista": "Fue una red de personas y lugares seguros que ayudaron a los esclavos fugitivos."
+        },
+        {
+            "pregunta": "¿Quién fue el líder del Imperio Romano durante su máxima expansión territorial?",
+            "opciones": [
+                "Julio César",
+                "Octavio Augusto",
+                "Constantino el Grande",
+                "Trajano"
+            ],
+            "respuesta": 4,
+            "explicacion": "Trajano fue el emperador romano bajo cuyo gobierno el imperio alcanzó su máxima extensión territorial.",
+            "pista": "Este emperador es conocido por sus campañas militares exitosas."
+        },
+        {
+            "pregunta": "¿Qué rey francés fue conocido como el 'Rey Sol'?",
+            "opciones": [
+                "Luis XIV",
+                "Luis XVI",
+                "Carlos I",
+                "Felipe IV"
+            ],
+            "respuesta": 1,
+            "explicacion": "Luis XIV de Francia fue conocido como el 'Rey Sol' debido a su largo reinado y su influencia en la cultura francesa.",
+            "pista": "Él construyó el famoso Palacio de Versalles."
+        },
+        {
+            "pregunta": "¿En qué año se firmó la Declaración de Independencia de los Estados Unidos?",
+            "opciones": [
+                "1776",
+                "1789",
+                "1801",
+                "1774"
+            ],
+            "respuesta": 1,
+            "explicacion": "La Declaración de Independencia de los Estados Unidos fue firmada en 1776, estableciendo su independencia de Gran Bretaña.",
+            "pista": "Este año también está asociado con la famosa firma de los padres fundadores."
+        },
+        {
+            "pregunta": "¿Quién fue el principal líder de la independencia de Argentina?",
+            "opciones": [
+                "Simón Bolívar",
+                "José de San Martín",
+                "Miguel Hidalgo",
+                "Bernardo O'Higgins"
+            ],
+            "respuesta": 2,
+            "explicacion": "José de San Martín fue el líder militar y político clave en la independencia de Argentina y otros países sudamericanos.",
+            "pista": "Este líder también jugó un papel importante en la independencia de Chile y Perú."
+        },
+        {
+            "pregunta": "¿Qué evento de 1969 marcó un hito en la exploración espacial?",
+            "opciones": [
+                "El primer vuelo tripulado al espacio",
+                "La llegada del hombre a la Luna",
+                "La creación de la estación espacial",
+                "El lanzamiento del Telescopio Hubble"
+            ],
+            "respuesta": 2,
+            "explicacion": "El 20 de julio de 1969, Neil Armstrong y Buzz Aldrin se convirtieron en los primeros humanos en caminar sobre la Luna.",
+            "pista": "El comandante de la misión fue Neil Armstrong."
+        },
+        {
+            "pregunta": "¿Quién fue el líder principal del movimiento por los derechos civiles en Estados Unidos durante los años 60?",
+            "opciones": [
+                "Malcolm X",
+                "Martin Luther King Jr.",
+                "Rosa Parks",
+                "Frederick Douglass"
+            ],
+            "respuesta": 2,
+            "explicacion": "Martin Luther King Jr. fue un líder clave en el movimiento por los derechos civiles en los Estados Unidos, conocido por su enfoque pacífico y su famoso discurso 'I Have a Dream'.",
+            "pista": "Este líder recibió el Premio Nobel de la Paz en 1964."
+        }
+    ],
+    "Cultura General": [
+        {
+            "pregunta": "¿En qué país se encuentra la ciudad de Petra, famosa por sus ruinas arqueológicas talladas en roca?",
+            "opciones": [
+                "Jordania",
+                "Egipto",
+                "Irak",
+                "Israel"
+            ],
+            "respuesta": 1,
+            "explicacion": "Petra es una antigua ciudad nabatea ubicada en lo que hoy es Jordania. Es conocida por su arquitectura y sistema de conducciones de agua.",
+            "pista": "Es una de las siete maravillas del mundo moderno."
+        },
+        {
+            "pregunta": "¿Cuál es el metal más ligero de todos?",
+            "opciones": [
+                "Aluminio",
+                "Hierro",
+                "Litio",
+                "Hidrógeno"
+            ],
+            "respuesta": 3,
+            "explicacion": "El litio es el metal más ligero, utilizado en baterías y en diversas aplicaciones tecnológicas.",
+            "pista": "Este metal es utilizado en baterías recargables, especialmente para teléfonos móviles."
+        },
+        {
+            "pregunta": "¿Qué significa la palabra 'renaissance' en francés?",
+            "opciones": [
+                "Renacimiento",
+                "Revolución",
+                "Renovación",
+                "Renovación espiritual"
+            ],
+            "respuesta": 1,
+            "explicacion": "La palabra 'renaissance' en francés significa 'renacimiento', y se refiere al período histórico que marcó el renacer del arte y la ciencia en Europa.",
+            "pista": "Este período comenzó en el siglo XIV y continuó hasta el siglo XVII."
+        },
+        {
+            "pregunta": "¿Quién pintó la famosa obra 'La Última Cena'?",
+            "opciones": [
+                "Leonardo da Vinci",
+                "Vincent van Gogh",
+                "Pablo Picasso",
+                "Michelangelo"
+            ],
+            "respuesta": 1,
+            "explicacion": "Leonardo da Vinci pintó 'La Última Cena', una de las obras más conocidas de la historia del arte, durante el Renacimiento.",
+            "pista": "Esta obra se encuentra en el Convento de Santa María delle Grazie en Milán."
+        },
+        {
+            "pregunta": "¿Cuál es el océano más grande del planeta?",
+            "opciones": [
+                "Atlántico",
+                "Índico",
+                "Ártico",
+                "Pacífico"
+            ],
+            "respuesta": 4,
+            "explicacion": "El océano Pacífico es el más grande y profundo de todos los océanos del planeta.",
+            "pista": "Este océano se extiende entre Asia y América y cubre más del 30% de la superficie de la Tierra."
+        },
+        {
+            "pregunta": "¿Qué animal es conocido por su capacidad para imitar sonidos humanos, especialmente el habla?",
+            "opciones": [
+                "Delfín",
+                "Loro",
+                "Cuervo",
+                "Perro"
+            ],
+            "respuesta": 2,
+            "explicacion": "Los loros son conocidos por su habilidad para imitar sonidos humanos y otros ruidos de su entorno.",
+            "pista": "Este animal es comúnmente un compañero en cautiverio y tiene una gran capacidad para aprender vocabulario."
+        },
+        {
+            "pregunta": "¿Cuál es el sistema de escritura utilizado en la antigua Mesopotamia?",
+            "opciones": [
+                "Jeroglíficos",
+                "Cuneiforme",
+                "Alfabeto griego",
+                "Runas"
+            ],
+            "respuesta": 2,
+            "explicacion": "El sistema cuneiforme era utilizado por los sumerios, acadios, babilonios y asirios en Mesopotamia.",
+            "pista": "Este sistema se escribió utilizando un punzón en tablillas de arcilla."
+        },
+        {
+            "pregunta": "¿En qué continente se encuentra el Desierto del Sahara?",
+            "opciones": [
+                "Asia",
+                "África",
+                "América",
+                "Australia"
+            ],
+            "respuesta": 2,
+            "explicacion": "El Desierto del Sahara es el desierto cálido más grande del mundo y se encuentra en el norte de África.",
+            "pista": "Este desierto es conocido por sus vastas dunas de arena y su clima extremadamente seco."
+        },
+        {
+            "pregunta": "¿Qué ciudad es famosa por su Torre inclinada?",
+            "opciones": [
+                "Roma",
+                "Venecia",
+                "Pisa",
+                "Florencia"
+            ],
+            "respuesta": 3,
+            "explicacion": "La Torre de Pisa es famosa por su inclinación, que ha atraído a millones de turistas desde su construcción.",
+            "pista": "Este monumento se encuentra en Italia y es parte de un complejo arquitectónico que incluye una iglesia y un campanario."
+        },
+        {
+            "pregunta": "¿En qué país nació el escritor Gabriel García Márquez?",
+            "opciones": [
+                "Argentina",
+                "Colombia",
+                "México",
+                "Perú"
+            ],
+            "respuesta": 2,
+            "explicacion": "Gabriel García Márquez, uno de los más grandes escritores de habla hispana, nació en Colombia en 1927.",
+            "pista": "Este autor es conocido por su obra 'Cien años de soledad', considerada un pilar del realismo mágico."
+        },
+        {
+            "pregunta": "¿Cuál es el nombre del famoso volcán que destruyó la ciudad romana de Pompeya en el año 79 d.C.?",
+            "opciones": [
+                "Etna",
+                "Vesuvius",
+                "Stromboli",
+                "Krakatoa"
+            ],
+            "respuesta": 2,
+            "explicacion": "El volcán Vesubio hizo erupción en el año 79 d.C., cubriendo la ciudad de Pompeya con ceniza y lava.",
+            "pista": "Este volcán está ubicado en Italia, cerca de Nápoles."
+        },
+        {
+            "pregunta": "¿Cuál es el nombre del río más largo del mundo?",
+            "opciones": [
+                "Río Amazonas",
+                "Río Nilo",
+                "Río Yangtsé",
+                "Río Mississippi"
+            ],
+            "respuesta": 1,
+            "explicacion": "El río Amazonas, que fluye a través de América del Sur, es el río más largo del mundo y tiene la mayor cuenca fluvial.",
+            "pista": "Este río atraviesa principalmente Brasil y es fundamental para la selva amazónica."
+        },
+        {
+            "pregunta": "¿En qué año se celebró el primer Mundial de fútbol de la FIFA?",
+            "opciones": [
+                "1920",
+                "1930",
+                "1940",
+                "1950"
+            ],
+            "respuesta": 2,
+            "explicacion": "El primer Mundial de fútbol de la FIFA se celebró en 1930 en Uruguay, y fue ganado por el país anfitrión.",
+            "pista": "Este torneo marcó el inicio de la tradición mundialista que se celebra cada cuatro años."
+        },
+        {
+            "pregunta": "¿Qué invento es atribuido a Thomas Edison?",
+            "opciones": [
+                "Bombilla eléctrica",
+                "Teléfono",
+                "Avión",
+                "Cámara fotográfica"
+            ],
+            "respuesta": 1,
+            "explicacion": "Thomas Edison es reconocido por inventar la bombilla eléctrica, aunque muchos inventores contribuyeron a su desarrollo.",
+            "pista": "Este invento revolucionó la forma en que la humanidad usa la electricidad para iluminarse."
+        },
+        {
+            "pregunta": "¿Qué famoso monumento está situado en Agra, India?",
+            "opciones": [
+                "Taj Mahal",
+                "Gran Muralla China",
+                "Coliseo",
+                "Piramide de Giza"
+            ],
+            "respuesta": 1,
+            "explicacion": "El Taj Mahal es una majestuosa tumba construida por el emperador Shah Jahan en memoria de su esposa Mumtaz Mahal.",
+            "pista": "Este monumento es un símbolo del amor y se encuentra a orillas del río Yamuna."
+        },
+        {
+            "pregunta": "¿Quién fue el científico que formuló la teoría de la relatividad?",
+            "opciones": [
+                "Isaac Newton",
+                "Galileo Galilei",
+                "Albert Einstein",
+                "Nikola Tesla"
+            ],
+            "respuesta": 3,
+            "explicacion": "Albert Einstein desarrolló la teoría de la relatividad, revolucionando la física moderna.",
+            "pista": "Este científico es famoso por su ecuación E=mc²."
+        },
+        {
+            "pregunta": "¿Qué continente tiene la mayor cantidad de países?",
+            "opciones": [
+                "Asia",
+                "África",
+                "Europa",
+                "América"
+            ],
+            "respuesta": 2,
+            "explicacion": "África tiene 54 países, lo que lo convierte en el continente con la mayor cantidad de países.",
+            "pista": "Este continente está dividido en zonas geográficas como el norte de África, el África subsahariana, y el Cuerno de África."
+        },
+        {
+            "pregunta": "¿Qué fruta es conocida por tener un alto contenido de vitamina C?",
+            "opciones": [
+                "Manzana",
+                "Plátano",
+                "Naranja",
+                "Fresa"
+            ],
+            "respuesta": 3,
+            "explicacion": "Las naranjas son muy conocidas por su alto contenido de vitamina C, que ayuda al sistema inmunológico.",
+            "pista": "Esta fruta es popular en los jugos naturales y es de color anaranjado."
+        }
+    ],
+    "Deportes": [
+        {
+            "pregunta": "¿Qué equipo de fútbol ganó la Copa del Mundo en 2010?",
+            "opciones": [
+                "España",
+                "Alemania",
+                "Brasil",
+                "Argentina"
+            ],
+            "respuesta": 1,
+            "explicacion": "España ganó su primer Mundial en 2010, venciendo a los Países Bajos en la final por 1-0.",
+            "pista": "El gol decisivo fue marcado por Andrés Iniesta."
+        },
+        {
+            "pregunta": "¿Quién ostenta el récord de más medallas olímpicas de todos los tiempos?",
+            "opciones": [
+                "Michael Phelps",
+                "Usain Bolt",
+                "Larisa Latynina",
+                "Carl Lewis"
+            ],
+            "respuesta": 1,
+            "explicacion": "Michael Phelps tiene un total de 28 medallas olímpicas, 23 de ellas de oro.",
+            "pista": "Este nadador estadounidense es famoso por su habilidad en el estilo libre y el mariposa."
+        },
+        {
+            "pregunta": "¿Qué país ha ganado más Copas del Mundo de fútbol?",
+            "opciones": [
+                "Brasil",
+                "Alemania",
+                "Italia",
+                "Argentina"
+            ],
+            "respuesta": 1,
+            "explicacion": "Brasil ha ganado un total de cinco Copas del Mundo, la última de ellas en 2002.",
+            "pista": "Este país es famoso por su fútbol ofensivo y su gran historia en los mundiales."
+        },
+        {
+            "pregunta": "¿Quién es el máximo goleador histórico de la selección de fútbol de Argentina?",
+            "opciones": [
+                "Lionel Messi",
+                "Diego Maradona",
+                "Gabriel Batistuta",
+                "Sergio Agüero"
+            ],
+            "respuesta": 1,
+            "explicacion": "Lionel Messi es el máximo goleador histórico de la selección argentina, superando a Gabriel Batistuta.",
+            "pista": "Este jugador también ha sido considerado uno de los mejores futbolistas de todos los tiempos."
+        },
+        {
+            "pregunta": "¿En qué deporte se utiliza una raqueta y una pelota pequeña, jugado principalmente en canchas de césped?",
+            "opciones": [
+                "Tenis",
+                "Pádel",
+                "Bádminton",
+                "Squash"
+            ],
+            "respuesta": 1,
+            "explicacion": "El tenis es un deporte que se juega con una raqueta y una pelota, y uno de sus torneos más famosos es Wimbledon.",
+            "pista": "Este deporte tiene variantes como el tenis de mesa y el tenis sobre césped."
+        },
+        {
+            "pregunta": "¿En qué deporte se compite en el Tour de Francia?",
+            "opciones": [
+                "Fútbol",
+                "Béisbol",
+                "Ciclismo",
+                "Atletismo"
+            ],
+            "respuesta": 3,
+            "explicacion": "El Tour de Francia es una de las competiciones más prestigiosas del ciclismo mundial.",
+            "pista": "Este evento anual se lleva a cabo en Francia y dura varias semanas."
+        },
+        {
+            "pregunta": "¿Qué jugador de baloncesto fue conocido como 'El Rey' y es considerado uno de los mejores de la historia?",
+            "opciones": [
+                "Kobe Bryant",
+                "Michael Jordan",
+                "Shaquille O'Neal",
+                "LeBron James"
+            ],
+            "respuesta": 4,
+            "explicacion": "LeBron James es considerado uno de los mejores jugadores de baloncesto de todos los tiempos, conocido por su versatilidad y habilidades.",
+            "pista": "Este jugador ha jugado en equipos como los Cleveland Cavaliers, Miami Heat y Los Angeles Lakers."
+        },
+        {
+            "pregunta": "¿En qué deporte se realiza la 'salsa' como parte de la celebración de un gol?",
+            "opciones": [
+                "Fútbol",
+                "Béisbol",
+                "Fútbol americano",
+                "Baloncesto"
+            ],
+            "respuesta": 1,
+            "explicacion": "La 'salsa' es un estilo de celebración de goles que fue popularizado por futbolistas como Camilo y Carlos Valderrama.",
+            "pista": "Este tipo de celebración involucra un movimiento de baile y es característico de ciertos jugadores sudamericanos."
+        },
+        {
+            "pregunta": "¿Quién es considerado el mejor jugador de la historia del tenis según muchos expertos?",
+            "opciones": [
+                "Rafael Nadal",
+                "Novak Djokovic",
+                "Roger Federer",
+                "Pete Sampras"
+            ],
+            "respuesta": 3,
+            "explicacion": "Roger Federer ha sido considerado por muchos como el mejor tenista de todos los tiempos, con 20 Grand Slams a su nombre.",
+            "pista": "Este jugador suizo ha dominado el tenis durante más de 15 años."
+        },
+        {
+            "pregunta": "¿Qué equipo de fútbol tiene como apodo 'Los Red Devils'?",
+            "opciones": [
+                "Manchester United",
+                "Liverpool",
+                "Chelsea",
+                "Arsenal"
+            ],
+            "respuesta": 1,
+            "explicacion": "El Manchester United es conocido como 'Los Red Devils' debido a su uniforme rojo y su exitosa historia en el fútbol inglés.",
+            "pista": "Este club tiene su sede en Old Trafford, Manchester."
+        },
+        {
+            "pregunta": "¿Qué deporte se juega con un balón ovalado y es muy popular en países como Nueva Zelanda y Sudáfrica?",
+            "opciones": [
+                "Fútbol",
+                "Béisbol",
+                "Rugby",
+                "Hockey"
+            ],
+            "respuesta": 3,
+            "explicacion": "El rugby es un deporte con balón ovalado que se juega principalmente en países del hemisferio sur, como Nueva Zelanda y Sudáfrica.",
+            "pista": "Este deporte se juega en equipos de 15 jugadores y tiene un mundial cada cuatro años."
+        },
+        {
+            "pregunta": "¿Quién es el máximo goleador histórico de la selección nacional de fútbol de Brasil?",
+            "opciones": [
+                "Pelé",
+                "Ronaldo",
+                "Neymar",
+                "Romário"
+            ],
+            "respuesta": 1,
+            "explicacion": "Pelé es el máximo goleador histórico de la selección de Brasil, con más de 70 goles internacionales.",
+            "pista": "Este futbolista es considerado uno de los mejores jugadores de la historia y ganó tres Copas del Mundo."
+        },
+        {
+            "pregunta": "¿Cuántos jugadores hay en un equipo de balonmano?",
+            "opciones": [
+                "5",
+                "6",
+                "7",
+                "8"
+            ],
+            "respuesta": 3,
+            "explicacion": "En un partido de balonmano, cada equipo consta de siete jugadores, incluyendo al portero.",
+            "pista": "Este deporte se juega en una cancha de 40 metros de largo por 20 metros de ancho."
+        },
+        {
+            "pregunta": "¿Qué jugador de fútbol estadounidense es conocido por su habilidad en el fútbol americano y por ser el mariscal de campo de los New England Patriots?",
+            "opciones": [
+                "Tom Brady",
+                "Peyton Manning",
+                "Joe Montana",
+                "Aaron Rodgers"
+            ],
+            "respuesta": 1,
+            "explicacion": "Tom Brady es ampliamente considerado uno de los mejores mariscales de campo en la historia de la NFL.",
+            "pista": "Este jugador ha ganado 7 Super Bowls, más que cualquier otro jugador en la historia de la NFL."
+        },
+        {
+            "pregunta": "¿Cuál es el nombre del torneo de tenis más prestigioso que se juega sobre césped?",
+            "opciones": [
+                "Roland Garros",
+                "US Open",
+                "Australian Open",
+                "Wimbledon"
+            ],
+            "respuesta": 4,
+            "explicacion": "Wimbledon es el torneo de tenis más antiguo y prestigioso del mundo, y se juega sobre césped en Londres.",
+            "pista": "Este torneo tiene una tradición de exigir que los jugadores usen ropa completamente blanca."
+        },
+        {
+            "pregunta": "¿En qué deporte se realiza el 'slam dunk' como una de las jugadas más destacadas?",
+            "opciones": [
+                "Fútbol",
+                "Béisbol",
+                "Baloncesto",
+                "Fútbol americano"
+            ],
+            "respuesta": 3,
+            "explicacion": "El 'slam dunk' es una jugada espectacular en baloncesto en la que un jugador lanza el balón hacia el aro con una sola mano, generalmente desde arriba.",
+            "pista": "Este tipo de jugada es muy popular en la NBA."
+        },
+        {
+            "pregunta": "¿Qué país es conocido por ser la cuna del rugby?",
+            "opciones": [
+                "Nueva Zelanda",
+                "Sudáfrica",
+                "Inglaterra",
+                "Francia"
+            ],
+            "respuesta": 3,
+            "explicacion": "Inglaterra es el lugar de origen del rugby, con la primera partida jugada en 1823.",
+            "pista": "Este deporte tiene su sede en el país que también es famoso por su equipo de fútbol."
+        },
+        {
+            "pregunta": "¿Qué corredor de Fórmula 1 tiene el récord de más campeonatos mundiales ganados?",
+            "opciones": [
+                "Ayrton Senna",
+                "Michael Schumacher",
+                "Lewis Hamilton",
+                "Juan Manuel Fangio"
+            ],
+            "respuesta": 2,
+            "explicacion": "Michael Schumacher tiene 7 campeonatos mundiales, un récord que comparte con Lewis Hamilton."
+        }
+    ],
+    "Videojuegos": [
+        {
+            "pregunta": "¿En qué videojuego aparece el personaje conocido como Geralt de Rivia?",
+            "opciones": [
+                "The Witcher",
+                "Dragon Age",
+                "Dark Souls",
+                "Skyrim"
+            ],
+            "respuesta": 1,
+            "explicacion": "Geralt de Rivia es el protagonista de la saga 'The Witcher', un juego de rol de acción basado en las novelas de Andrzej Sapkowski.",
+            "pista": "Es un cazador de monstruos conocido como 'brujero'."
+        },
+        {
+            "pregunta": "¿Qué videojuego cuenta con un modo de juego llamado 'Blackout', que es una batalla real?",
+            "opciones": [
+                "Apex Legends",
+                "Call of Duty: Black Ops 4",
+                "PUBG",
+                "Fortnite"
+            ],
+            "respuesta": 2,
+            "explicacion": "'Blackout' es el modo de batalla real de 'Call of Duty: Black Ops 4', donde los jugadores luchan hasta ser el último sobreviviente.",
+            "pista": "Este modo se lanzó en la cuarta entrega de la saga 'Black Ops'."
+        },
+        {
+            "pregunta": "¿En qué año se lanzó el juego 'Red Dead Redemption 2'?",
+            "opciones": [
+                "2017",
+                "2018",
+                "2019",
+                "2020"
+            ],
+            "respuesta": 2,
+            "explicacion": "'Red Dead Redemption 2' fue lanzado en 2018 por Rockstar Games, ofreciendo una experiencia de mundo abierto en el lejano oeste.",
+            "pista": "Es una precuela de la primera entrega de la saga 'Red Dead Redemption'."
+        },
+        {
+            "pregunta": "¿Qué franquicia de videojuegos es conocida por su sistema de combate basado en 'parrying' y 'dodging'?",
+            "opciones": [
+                "Dark Souls",
+                "The Elder Scrolls",
+                "Demon's Souls",
+                "Bloodborne"
+            ],
+            "respuesta": 1,
+            "explicacion": "'Dark Souls' es famoso por su desafiante sistema de combate, donde los jugadores deben dominar el parry y el dodge para sobrevivir.",
+            "pista": "El juego es conocido por su dificultad y su compleja narrativa ambiental."
+        },
+        {
+            "pregunta": "¿Cuál es el nombre de la ciudad ficticia en la que se ambienta 'Grand Theft Auto: Vice City'?",
+            "opciones": [
+                "Liberty City",
+                "Vice City",
+                "Los Santos",
+                "San Fierro"
+            ],
+            "respuesta": 2,
+            "explicacion": "'Grand Theft Auto: Vice City' está ambientado en la ficticia ciudad de Vice City, inspirada en Miami de los años 80.",
+            "pista": "El juego es conocido por su estética y música de los años 80."
+        },
+        {
+            "pregunta": "¿Cuál es el nombre del mundo en el que se desarrolla el juego 'Kingdom Hearts'?",
+            "opciones": [
+                "Twilight Town",
+                "Hollow Bastion",
+                "Destiny Islands",
+                "Traverse Town"
+            ],
+            "respuesta": 3,
+            "explicacion": "El juego comienza en 'Destiny Islands', un mundo tropical donde Sora, el protagonista, crece antes de ser arrastrado a otras dimensiones.",
+            "pista": "Sora, el protagonista, es conocido por empuñar una llave espada."
+        },
+        {
+            "pregunta": "¿Qué juego tiene como protagonista a un hombre llamado Nathan Drake?",
+            "opciones": [
+                "Tomb Raider",
+                "Assassin's Creed",
+                "Uncharted",
+                "Red Dead Redemption"
+            ],
+            "respuesta": 3,
+            "explicacion": "Nathan Drake es el protagonista de 'Uncharted', una serie de juegos de aventura de acción y exploración desarrollados por Naughty Dog.",
+            "pista": "El personaje es un cazador de tesoros que viaja por el mundo en busca de reliquias perdidas."
+        },
+        {
+            "pregunta": "¿Qué juego presenta a un personaje llamado Samus Aran enfrentándose a los Metroids?",
+            "opciones": [
+                "Metroid Prime",
+                "Halo",
+                "The Legend of Zelda",
+                "Dark Souls"
+            ],
+            "respuesta": 1,
+            "explicacion": "Samus Aran es la protagonista de la saga 'Metroid', y en 'Metroid Prime', lucha contra criaturas alienígenas conocidas como Metroids.",
+            "pista": "Samus es una cazarrecompensas espacial que lleva una armadura de poder."
+        },
+        {
+            "pregunta": "¿En qué juego se desarrolla la historia de un joven llamado Aloy, quien vive en un mundo post-apocalíptico?",
+            "opciones": [
+                "Horizon Zero Dawn",
+                "The Last of Us",
+                "Tomb Raider",
+                "Far Cry"
+            ],
+            "respuesta": 1,
+            "explicacion": "Aloy es la protagonista de 'Horizon Zero Dawn', un juego de acción y aventura en un mundo dominado por robots en forma de animales.",
+            "pista": "Aloy es una cazadora que busca descubrir el misterio detrás de la caída de la civilización."
+        },
+        {
+            "pregunta": "¿Qué juego de lucha tiene personajes como Ryu, Ken y Chun-Li?",
+            "opciones": [
+                "Tekken",
+                "Street Fighter",
+                "Mortal Kombat",
+                "Soulcalibur"
+            ],
+            "respuesta": 2,
+            "explicacion": "'Street Fighter' es una famosa serie de videojuegos de lucha donde personajes como Ryu y Ken son conocidos por su combate cuerpo a cuerpo.",
+            "pista": "El juego ha sido la base para muchos torneos competitivos de lucha a nivel mundial."
+        },
+        {
+            "pregunta": "¿Cuál es el nombre de la protagonista de 'The Last of Us'?",
+            "opciones": [
+                "Ellie",
+                "Clementine",
+                "Chloe",
+                "Lara"
+            ],
+            "respuesta": 1,
+            "explicacion": "Ellie es la protagonista de 'The Last of Us', un juego de acción y aventura en un mundo post-apocalíptico.",
+            "pista": "Ella es una joven que viaja con Joel, un hombre que la protege mientras buscan una cura para la pandemia."
+        },
+        {
+            "pregunta": "¿Qué juego presenta una batalla contra monstruos gigantes conocidos como 'Colosos'?",
+            "opciones": [
+                "Shadow of the Colossus",
+                "Demon's Souls",
+                "God of War",
+                "Bloodborne"
+            ],
+            "respuesta": 1,
+            "explicacion": "'Shadow of the Colossus' es un juego de acción y aventura en el que el jugador debe derrotar a enormes colosos para salvar a una joven.",
+            "pista": "El juego es conocido por su atmósfera minimalista y sus enormes jefes."
+        },
+        {
+            "pregunta": "¿En qué juego puedes usar una herramienta llamada 'Portal Gun' para crear portales y resolver acertijos?",
+            "opciones": [
+                "Portal",
+                "The Talos Principle",
+                "Half-Life",
+                "BioShock"
+            ],
+            "respuesta": 1,
+            "explicacion": "'Portal' es un juego de rompecabezas en primera persona en el que los jugadores deben usar una 'Portal Gun' para crear portales y resolver desafíos.",
+            "pista": "El juego es conocido por su humor negro y su enfoque innovador en el género de puzzles."
+        },
+        {
+            "pregunta": "¿Qué videojuego permite a los jugadores explorar un mundo abierto y salvar la tierra de una invasión alienígena?",
+            "opciones": [
+                "No Man's Sky",
+                "Fallout",
+                "Mass Effect",
+                "XCOM"
+            ],
+            "respuesta": 4,
+            "explicacion": "'XCOM' es una serie de juegos de estrategia táctica donde los jugadores deben defender la Tierra de una invasión alienígena.",
+            "pista": "El juego combina tácticas por turnos con gestión de recursos."
+        },
+        {
+            "pregunta": "¿Qué personaje de videojuegos es conocido por ser un fontanero italiano y hermano de Luigi?",
+            "opciones": [
+                "Mario",
+                "Donkey Kong",
+                "Sonic",
+                "Samus"
+            ],
+            "respuesta": 1,
+            "explicacion": "Mario es uno de los personajes más icónicos de los videojuegos, creado por Shigeru Miyamoto y conocido por sus aventuras en el Reino Champiñón.",
+            "pista": "Su primer juego fue lanzado en 1985 para la NES."
+        }
+    ]
+  }

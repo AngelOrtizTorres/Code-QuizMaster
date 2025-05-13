@@ -1,0 +1,1442 @@
+{
+    "Videojuegos": [
+        {
+            "pregunta": "¿En qué juego aparece la ciudad ficticia llamada 'Rapture', un mundo bajo el agua?",
+            "opciones": [
+                "Bioshock",
+                "System Shock 2",
+                "Prey",
+                "Dishonored"
+            ],
+            "respuesta": 1,
+            "explicacion": "'Bioshock' es un juego de disparos en primera persona que tiene lugar en la ciudad subacuática de Rapture, un lugar distópico donde la libertad científica ha ido demasiado lejos.",
+            "pista": "El juego combina disparos con elementos de rol y una narrativa profunda."
+        },
+        {
+            "pregunta": "¿Qué juego de rol cuenta con una civilización antigua llamada 'The Qun' que es central para su trama?",
+            "opciones": [
+                "The Elder Scrolls: Skyrim",
+                "Dragon Age: Origins",
+                "Divinity: Original Sin 2",
+                "Dark Souls"
+            ],
+            "respuesta": 2,
+            "explicacion": "En 'Dragon Age: Origins', el 'Qun' es una filosofía y civilización representada por los Qunari, una raza que sigue estrictas reglas y disciplina.",
+            "pista": "Este juego fue desarrollado por BioWare y es conocido por sus elecciones morales y narrativa compleja."
+        },
+        {
+            "pregunta": "¿En qué juego de acción y aventura encarnas a un protagonista llamado 'Eivor', un guerrero vikingo?",
+            "opciones": [
+                "For Honor",
+                "Viking: Battle for Asgard",
+                "Assassin's Creed Valhalla",
+                "Hellblade: Senua's Sacrifice"
+            ],
+            "respuesta": 3,
+            "explicacion": "'Assassin's Creed Valhalla' te pone en el rol de Eivor, un líder vikingo que explora y conquista Inglaterra durante la época de los vikingos.",
+            "pista": "Este juego forma parte de la exitosa saga 'Assassin's Creed' y presenta mecánicas de rol y combate abierto."
+        },
+        {
+            "pregunta": "¿En qué juego de rol ambientado en un mundo de fantasía oscura se lucha contra criaturas conocidas como 'Abyssal Ones'?",
+            "opciones": [
+                "Demon's Souls",
+                "Bloodborne",
+                "Dark Souls",
+                "The Witcher 3: Wild Hunt"
+            ],
+            "respuesta": 3,
+            "explicacion": "'Dark Souls' es conocido por su desafiante sistema de combate basado en la gestión de la resistencia o 'stamina'.",
+            "pista": "Este juego fue el primero de la saga que revolucionó el género de acción y rol con su dificultad."
+        },
+        {
+            "pregunta": "¿Qué juego de estrategia permite jugar como una civilización alienígena conocida como los 'Skrall'?",
+            "opciones": [
+                "XCOM: Enemy Unknown",
+                "Civilization V",
+                "StarCraft",
+                "Endless Space"
+            ],
+            "respuesta": 3,
+            "explicacion": "En 'StarCraft', una de las razas alienígenas jugables son los Zerg, aunque los 'Skrall' son mencionados como parte de la expansión del universo. Es un juego de estrategia en tiempo real.",
+            "pista": "Los Zerg son conocidos por su capacidad de consumir otros seres para evolucionar y expandirse rápidamente."
+        },
+        {
+            "pregunta": "¿En qué juego el protagonista principal, protagonista con el nombre de 'Nomad', lucha contra fuerzas militares en un mundo abierto?",
+            "opciones": [
+                "Far Cry 2",
+                "Crysis",
+                "Halo: Reach",
+                "Metro Exodus"
+            ],
+            "respuesta": 2,
+            "explicacion": "'Crysis' es un juego de disparos en primera persona donde el protagonista, Nomad, lucha contra fuerzas militares en una isla tropical, mientras hace uso de un traje avanzado.",
+            "pista": "El juego es famoso por su exigente rendimiento gráfico y la libertad que ofrece para el combate."
+        },
+        {
+            "pregunta": "¿Qué franquicia de videojuegos tiene una misión que involucra el robo de un avión y la participación de un personaje llamado 'Lester'?",
+            "opciones": [
+                "Grand Theft Auto V",
+                "Saints Row",
+                "Red Dead Redemption",
+                "Watch Dogs"
+            ],
+            "respuesta": 1,
+            "explicacion": "'Grand Theft Auto V' es un juego de acción y aventura en mundo abierto donde Lester es uno de los principales colaboradores en las misiones.",
+            "pista": "Este juego es conocido por su mundo abierto y misiones criminales muy elaboradas."
+        },
+        {
+            "pregunta": "¿En qué juego de acción y aventura se lleva a cabo una guerra entre los 'Tenno' y los 'Grineer'?",
+            "opciones": [
+                "Destiny 2",
+                "Warframe",
+                "Overwatch",
+                "Fortnite"
+            ],
+            "respuesta": 2,
+            "explicacion": "'Warframe' es un juego de acción y aventura en línea en el que los jugadores, como los 'Tenno', luchan contra los 'Grineer' y otras facciones en un universo futurista.",
+            "pista": "Los 'Tenno' son guerreros con habilidades especiales y armaduras biomecánicas llamadas Warframes."
+        },
+        {
+            "pregunta": "¿Qué personaje de videojuegos es conocido por ser el rey de los demonios en la saga 'Castlevania'?",
+            "opciones": [
+                "Alucard",
+                "Dracula",
+                "Simon Belmont",
+                "Richter Belmont"
+            ],
+            "respuesta": 2,
+            "explicacion": "Dracula es el principal antagonista en la saga 'Castlevania', conocido como el rey de los vampiros y uno de los demonios más poderosos del universo del juego.",
+            "pista": "El personaje ha sido derrotado múltiples veces por los Belmont, una familia de cazadores de vampiros."
+        },
+        {
+            "pregunta": "¿En qué título de la saga 'Final Fantasy' se presenta a un protagonista llamado Cloud Strife?",
+            "opciones": [
+                "Final Fantasy VII",
+                "Final Fantasy VI",
+                "Final Fantasy X",
+                "Final Fantasy XV"
+            ],
+            "respuesta": 1,
+            "explicacion": "Cloud Strife es el protagonista de 'Final Fantasy VII', uno de los títulos más icónicos de la serie, que sigue su viaje para detener a la megacorporación Shinra y salvar al mundo.",
+            "pista": "Este juego fue lanzado originalmente en 1997 para la PlayStation y es uno de los RPGs más influyentes de la historia."
+        },
+        {
+            "pregunta": "¿Qué juego de mundo abierto presenta a un protagonista llamado 'Arthur Morgan' en el viejo oeste?",
+            "opciones": [
+                "Red Dead Redemption 2",
+                "The Witcher 3: Wild Hunt",
+                "Far Cry 5",
+                "Assassin's Creed Odyssey"
+            ],
+            "respuesta": 1,
+            "explicacion": "Arthur Morgan es el protagonista de 'Red Dead Redemption 2', un juego de acción y aventura de mundo abierto ambientado en el viejo oeste.",
+            "pista": "Arthur es parte de una banda de forajidos que intenta sobrevivir mientras enfrentan la decadencia de la civilización."
+        },
+        {
+            "pregunta": "¿En qué juego se explora una civilización subterránea llamada 'The Underworld' con criaturas mitológicas?",
+            "opciones": [
+                "Hades",
+                "Dark Souls",
+                "Dante's Inferno",
+                "God of War III"
+            ],
+            "respuesta": 3,
+            "explicacion": "'Dante's Inferno' es un juego basado en la famosa obra de Dante Alighieri, en el que el protagonista viaja a través del Infierno para salvar el alma de su amada Beatriz.",
+            "pista": "El juego tiene lugar en un entorno mitológico, inspirado en el poema épico 'La Divina Comedia'."
+        },
+        {
+            "pregunta": "¿Qué serie de juegos de disparos en primera persona es conocida por su modo 'Zombies' y personajes como Richtofen y Dempsey?",
+            "opciones": [
+                "Call of Duty: Zombies",
+                "Left 4 Dead",
+                "Doom",
+                "Battlefield 1"
+            ],
+            "respuesta": 1,
+            "explicacion": "'Call of Duty: Zombies' es un modo de juego popular donde los jugadores deben luchar contra hordas de muertos vivientes, usando armas y habilidades especiales.",
+            "pista": "Este modo se introdujo en 'Call of Duty: World at War' y se ha expandido en títulos posteriores."
+        },
+        {
+            "pregunta": "¿Cuál de los siguientes juegos fue desarrollado por el estudio Team Ico?",
+            "opciones": [
+                "The Last Guardian",
+                "Shadow of the Colossus",
+                "ICO",
+                "Nier: Automata"
+            ],
+            "respuesta": 1,
+            "explicacion": "'The Last Guardian' fue desarrollado por Team Ico, conocido por sus títulos artísticos como 'ICO' y 'Shadow of the Colossus'.",
+            "pista": "El juego se centra en la relación entre un niño y una criatura gigante llamada Trico."
+        },
+        {
+            "pregunta": "¿Qué juego de rol es famoso por su sistema de combate basado en 'stamina' y 'estamina management'?",
+            "opciones": [
+                "Dark Souls",
+                "Sekiro: Shadows Die Twice",
+                "Demon's Souls",
+                "Bloodborne"
+            ],
+            "respuesta": 3,
+            "explicacion": "'Demon's Souls' es conocido por su sistema de combate desafiante basado en la gestión de la resistencia o 'stamina'.",
+            "pista": "Este juego fue el primero de la saga que revolucionó el género de acción y rol con su dificultad."
+        },
+        {
+            "pregunta": "¿En qué juego se puede encontrar el personaje 'GLaDOS', una inteligencia artificial que actúa como antagonista?",
+            "opciones": [
+                "Portal",
+                "Half-Life",
+                "Bioshock Infinite",
+                "The Talos Principle"
+            ],
+            "respuesta": 1,
+            "explicacion": "'Portal' es un juego de rompecabezas en primera persona donde GLaDOS, una inteligencia artificial, es el principal antagonista.",
+            "pista": "GLaDOS es conocida por su humor negro y su antagonismo mientras ayuda a la protagonista en un laboratorio de pruebas."
+        },
+        {
+            "pregunta": "¿Cuál es el nombre del planeta donde se desarrolla 'Metroid Prime'?",
+            "opciones": [
+                "Zebes",
+                "Talon IV",
+                "Aether",
+                "SR388"
+            ],
+            "respuesta": 2,
+            "explicacion": "'Metroid Prime' se desarrolla principalmente en el planeta Talon IV, un mundo alienígena lleno de secretos y peligros.",
+            "pista": "Este planeta está lleno de ruinas antiguas y criaturas mutadas por la energía oscura."
+        },
+        {
+            "pregunta": "¿En qué título de la saga 'Final Fantasy' se presenta a un protagonista llamado Cloud Strife?",
+            "opciones": [
+                "Final Fantasy VII",
+                "Final Fantasy VI",
+                "Final Fantasy X",
+                "Final Fantasy XV"
+            ],
+            "respuesta": 1,
+            "explicacion": "'Final Fantasy VII' es uno de los títulos más icónicos de la serie, que sigue el viaje de Cloud Strife para detener a la megacorporación Shinra.",
+            "pista": "Este juego fue lanzado originalmente en 1997 y es considerado uno de los RPGs más influyentes de la historia."
+        },
+        {
+            "pregunta": "¿En qué juego de mundo abierto puedes encontrar una facción llamada los 'Brotherhood of Steel'?",
+            "opciones": [
+                "Skyrim",
+                "Far Cry New Dawn",
+                "Fallout 3",
+                "The Witcher 3: Wild Hunt"
+            ],
+            "respuesta": 3,
+            "explicacion": "Los 'Brotherhood of Steel' son una facción militar y científica en el universo de 'Fallout', conocidos por su uso de tecnología avanzada y sus estrictas reglas.",
+            "pista": "Este juego tiene lugar en un mundo post-apocalíptico tras una guerra nuclear global."
+        },
+        {
+            "pregunta": "¿Qué juego de acción y aventura se centra en la exploración de un vasto mundo subterráneo lleno de trampas y criaturas en un estilo 'Metroidvania'?",
+            "opciones": [
+                "Celeste",
+                "Dead Cells",
+                "Ori and the Blind Forest",
+                "Hollow Knight"
+            ],
+            "respuesta": 4,
+            "explicacion": "'Hollow Knight' es un juego de acción y aventura en 2D que se basa en la exploración de un mundo subterráneo, lleno de enemigos, jefes y secretos.",
+            "pista": "El juego se ha destacado por su dificultad, su narrativa sutil y sus impresionantes escenarios."
+        }
+    ],
+    "Geografía": [
+        {
+            "pregunta": "¿Cuál es el río más largo de África?",
+            "opciones": [
+                "Congo",
+                "Limpopo",
+                "Nilo",
+                "Zambeze"
+            ],
+            "respuesta": 3,
+            "explicacion": "El Nilo es el río más largo de África y uno de los más largos del mundo, con una longitud de más de 6,600 kilómetros.",
+            "pista": "Este río es conocido por ser esencial para las civilizaciones del antiguo Egipto."
+        },
+        {
+            "pregunta": "¿En qué país se encuentra el desierto de Atacama?",
+            "opciones": [
+                "Chile",
+                "Perú",
+                "Bolivia",
+                "Argentina"
+            ],
+            "respuesta": 1,
+            "explicacion": "El desierto de Atacama está ubicado principalmente en el norte de Chile y es uno de los desiertos más áridos del mundo.",
+            "pista": "Es famoso por su paisaje lunar y su escasa precipitación anual."
+        },
+        {
+            "pregunta": "¿Cuál es el país más grande del mundo en términos de superficie terrestre?",
+            "opciones": [
+                "Rusia",
+                "Canadá",
+                "China",
+                "Estados Unidos"
+            ],
+            "respuesta": 1,
+            "explicacion": "Rusia es el país más grande del mundo, con una extensión de más de 17 millones de kilómetros cuadrados.",
+            "pista": "Este país se extiende a través de dos continentes: Europa y Asia."
+        },
+        {
+            "pregunta": "¿Qué océano rodea la isla de Madagascar?",
+            "opciones": [
+                "Océano Pacífico",
+                "Océano Ártico",
+                "Océano Índico",
+                "Océano Atlántico"
+            ],
+            "respuesta": 3,
+            "explicacion": "Madagascar está situada en el Océano Índico, al este de África, y es la cuarta isla más grande del mundo.",
+            "pista": "Este océano también bordea países como India y Australia."
+        },
+        {
+            "pregunta": "¿Cuál es la capital de Mongolia?",
+            "opciones": [
+                "Ulan Bator",
+                "Bishkek",
+                "Astana",
+                "Almaty"
+            ],
+            "respuesta": 1,
+            "explicacion": "Ulan Bator (también conocida como Ulaanbaatar) es la capital y ciudad más grande de Mongolia.",
+            "pista": "Es una de las capitales más frías del mundo debido a su ubicación en una región montañosa."
+        },
+        {
+            "pregunta": "¿En qué continente se encuentra el monte Kilimanjaro?",
+            "opciones": [
+                "África",
+                "Oceanía",
+                "Asia",
+                "América"
+            ],
+            "respuesta": 1,
+            "explicacion": "El monte Kilimanjaro es la montaña más alta de África, con una altitud de 5,895 metros sobre el nivel del mar.",
+            "pista": "Está ubicado en Tanzania, cerca de la frontera con Kenia."
+        },
+        {
+            "pregunta": "¿Cuál es el país más pequeño de África?",
+            "opciones": [
+                "Seychelles",
+                "Malawi",
+                "Guinea-Bisáu",
+                "Gambia"
+            ],
+            "respuesta": 1,
+            "explicacion": "Seychelles es un archipiélago de 115 islas en el océano Índico, y es el país más pequeño de África tanto en superficie como en población.",
+            "pista": "Está situado al noreste de Madagascar."
+        },
+        {
+            "pregunta": "¿Cuál es el desierto más grande del mundo?",
+            "opciones": [
+                "Desierto del Sahara",
+                "Desierto de Kalahari",
+                "Desierto de Atacama",
+                "Desierto de Gobi"
+            ],
+            "respuesta": 1,
+            "explicacion": "El desierto del Sahara, en África del Norte, es el más grande del mundo, cubriendo una extensión de aproximadamente 9 millones de kilómetros cuadrados.",
+            "pista": "Este desierto se extiende por varios países, incluyendo Egipto, Argelia y Libia."
+        },
+        {
+            "pregunta": "¿Qué cordillera se encuentra a lo largo de la costa occidental de América del Sur?",
+            "opciones": [
+                "La Cordillera de los Apalaches",
+                "Los Andes",
+                "Los Alpes",
+                "La Cordillera de los Pirineos"
+            ],
+            "respuesta": 2,
+            "explicacion": "Los Andes son la cadena montañosa más larga del mundo, extendiéndose a lo largo de la costa occidental de América del Sur, desde Venezuela hasta Chile.",
+            "pista": "Esta cordillera atraviesa varios países, como Argentina, Bolivia y Perú."
+        },
+        {
+            "pregunta": "¿Cuál es la capital de Bután?",
+            "opciones": [
+                "Dhaka",
+                "Lhasa",
+                "Thimphu",
+                "Kathmandú"
+            ],
+            "respuesta": 3,
+            "explicacion": "Thimphu es la capital y la ciudad más grande de Bután, un pequeño país montañoso en el sur de Asia.",
+            "pista": "Es una de las pocas capitales en el mundo que no tiene semáforos."
+        },
+        {
+            "pregunta": "¿Qué río fluye a través de la ciudad de París?",
+            "opciones": [
+                "Río Ródano",
+                "Río Loira",
+                "Río Rin",
+                "Río Sena"
+            ],
+            "respuesta": 4,
+            "explicacion": "El río Sena fluye a través de París y es el río más importante de Inglaterra.",
+            "pista": "Este río divide la ciudad en dos partes: la orilla derecha y la orilla izquierda."
+        },
+        {
+            "pregunta": "¿Qué país tiene la mayor cantidad de islas en el mundo?",
+            "opciones": [
+                "Suecia",
+                "Canadá",
+                "Filipinas",
+                "Indonesia"
+            ],
+            "respuesta": 1,
+            "explicacion": "Suecia es el país con más islas en el mundo, con un total de alrededor de 267,570 islas, de las cuales solo unas 1000 están habitadas.",
+            "pista": "Este país se encuentra en el norte de Europa, en la región escandinava."
+        },
+        {
+            "pregunta": "¿Cuál es el punto más bajo de la Tierra?",
+            "opciones": [
+                "La Fosa de las Marianas",
+                "El Valle de la Muerte",
+                "La Laguna de Caratasca",
+                "El Mar Muerto"
+            ],
+            "respuesta": 4,
+            "explicacion": "El Mar Muerto, que se encuentra entre Israel y Jordania, es el punto más bajo de la Tierra, a unos 430 metros bajo el nivel del mar.",
+            "pista": "Este cuerpo de agua es conocido por su alta salinidad y la incapacidad de los seres humanos de sumergirse completamente en él."
+        },
+        {
+            "pregunta": "¿En qué continente se encuentra el país de Níger?",
+            "opciones": [
+                "Oceanía",
+                "América",
+                "África",
+                "Asia"
+            ],
+            "respuesta": 3,
+            "explicacion": "Níger es un país sin salida al mar que se encuentra en el oeste de África, limitando con varios países como Argelia, Libia y Nigeria.",
+            "pista": "Es uno de los países más grandes de África."
+        },
+        {
+            "pregunta": "¿En qué océano se encuentra la isla de Fiji?",
+            "opciones": [
+                "Océano Atlántico",
+                "Océano Pacífico",
+                "Océano Ártico",
+                "Océano Índico"
+            ],
+            "respuesta": 2,
+            "explicacion": "Fiji es un país insular en el océano Pacífico sur, compuesto por más de 300 islas.",
+            "pista": "Es conocido por su belleza natural, playas y aguas cristalinas."
+        },
+        {
+            "pregunta": "¿Cuál es la montaña más alta de África?",
+            "opciones": [
+                "Monte Atlas",
+                "Monte Kilimanjaro",
+                "Monte Rwenzori",
+                "Monte Kenia"
+            ],
+            "respuesta": 2,
+            "explicacion": "El monte Kilimanjaro, en Tanzania, es la montaña más alta de África, con una altitud de 5,895 metros sobre el nivel del mar.",
+            "pista": "Es un volcán que ha estado inactivo durante más de 360,000 años."
+        },
+        {
+            "pregunta": "¿Qué río atraviesa la ciudad de Londres?",
+            "opciones": [
+                "Río Loira",
+                "Río Rin",
+                "Río Duero",
+                "Río Támesis"
+            ],
+            "respuesta": 4,
+            "explicacion": "El río Támesis atraviesa Londres y es el río más importante de Inglaterra.",
+            "pista": "Este río es conocido por ser la vía fluvial histórica que ha conectado Londres con otras partes de Inglaterra."
+        },
+        {
+            "pregunta": "¿En qué país se encuentra la ciudad de Petra, una antigua ciudad conocida por sus edificaciones talladas en roca?",
+            "opciones": [
+                "Irak",
+                "Israel",
+                "Jordania",
+                "Egipto"
+            ],
+            "respuesta": 3,
+            "explicacion": "Petra es una antigua ciudad en Jordania, famosa por sus estructuras de piedra tallada y su sistema de canales de agua.",
+            "pista": "Es una de las nuevas siete maravillas del mundo."
+        },
+        {
+            "pregunta": "¿Qué país tiene la mayor cantidad de volcanes activos?",
+            "opciones": [
+                "Japón",
+                "México",
+                "Indonesia",
+                "Italia"
+            ],
+            "respuesta": 3,
+            "explicacion": "Indonesia es el país con la mayor cantidad de volcanes activos en el mundo, debido a su ubicación en el Anillo de Fuego del Pacífico.",
+            "pista": "Es un archipiélago formado por más de 17,000 islas."
+        },
+        {
+            "pregunta": "¿En qué país se encuentra el lago Titicaca?",
+            "opciones": [
+                "Chile",
+                "Ecuador",
+                "Perú",
+                "Bolivia"
+            ],
+            "respuesta": 3,
+            "explicacion": "El lago Titicaca, situado en la frontera entre Perú y Bolivia, es el lago navegable más alto del mundo.",
+            "pista": "Este lago tiene una altitud de más de 3,800 metros sobre el nivel del mar."
+        }
+    ],
+    "Programación": [
+        {
+            "pregunta": "¿Cuál es la salida de este código? \n`print(len({'a': 1, 'b': 2}))`",
+            "opciones": [
+                "2",
+                "3",
+                "1",
+                "Error de sintaxis"
+            ],
+            "respuesta": 1,
+            "explicacion": "El diccionario tiene dos elementos ('a' y 'b'), por lo que la función `len()` devuelve 2.",
+            "pista": "La función `len()` devuelve el número de elementos de un diccionario."
+        },
+        {
+            "pregunta": "¿Qué método se utiliza para agregar un nuevo ítem a un diccionario en Python?",
+            "opciones": [
+                "append()",
+                "add()",
+                "insert()",
+                "update()"
+            ],
+            "respuesta": 4,
+            "explicacion": "El método `update()` agrega o modifica un ítem en un diccionario. Si la clave ya existe, su valor se actualiza.",
+            "pista": "Es comúnmente utilizado para agregar múltiples elementos o modificar los existentes."
+        },
+        {
+            "pregunta": "¿Cuál de las siguientes afirmaciones es correcta acerca de los diccionarios en Python?",
+            "opciones": [
+                "Los diccionarios pueden tener claves duplicadas.",
+                "Los diccionarios no permiten valores nulos.",
+                "El orden de los elementos en un diccionario se conserva desde Python 3.5.",
+                "Las claves en un diccionario deben ser inmutables."
+            ],
+            "respuesta": 4,
+            "explicacion": "Las claves de un diccionario deben ser de tipos inmutables, como cadenas, tuplas o números. Los valores pueden ser de cualquier tipo.",
+            "pista": "Las claves pueden ser tipos como números, cadenas o tuplas."
+        },
+        {
+            "pregunta": "¿Qué es el *self* en una clase de Python?",
+            "opciones": [
+                "Es una palabra clave que se utiliza para crear una clase.",
+                "Es una referencia a la instancia actual de la clase.",
+                "Es un operador de Python que representa el objeto en memoria.",
+                "Es el nombre de la clase que se va a crear."
+            ],
+            "respuesta": 2,
+            "explicacion": "El parámetro `self` en los métodos de una clase es una referencia a la instancia actual del objeto. Se usa para acceder a los atributos y métodos de esa instancia.",
+            "pista": "El uso de `self` permite a los métodos de una clase manipular los atributos del objeto."
+        },
+        {
+            "pregunta": "¿Cuál es el propósito de la función `__init__()` en una clase de Python?",
+            "opciones": [
+                "Inicializar los métodos de la clase",
+                "Inicializar la instancia de la clase",
+                "Crear una nueva clase",
+                "Imprimir los valores de la clase"
+            ],
+            "respuesta": 2,
+            "explicacion": "`__init__()` es un método especial que se llama automáticamente cuando se crea una nueva instancia de la clase. Es utilizado para inicializar los atributos de la clase.",
+            "pista": "Este método se utiliza para asignar valores iniciales a los atributos del objeto."
+        },
+        {
+            "pregunta": "¿Cómo se llama el método que se ejecuta al eliminar una instancia de una clase en Python?",
+            "opciones": [
+                "__delete__",
+                "__del__",
+                "__exit__",
+                "__remove__"
+            ],
+            "respuesta": 2,
+            "explicacion": "`__del__()` es un método especial que se invoca cuando una instancia es destruida, normalmente cuando el objeto es eliminado o el programa termina.",
+            "pista": "Este método se puede usar para liberar recursos antes de la destrucción del objeto."
+        },
+        {
+            "pregunta": "¿Cómo accederías al valor asociado a la clave 'x' en un diccionario `d = {'x': 10, 'y': 20}`?",
+            "opciones": [
+                "d.x",
+                "d['x']",
+                "d.get(x)",
+                "d['10']"
+            ],
+            "respuesta": 2,
+            "explicacion": "El acceso a un valor en un diccionario se hace utilizando la sintaxis `d['clave']`.",
+            "pista": "Asegúrate de usar comillas para las claves de tipo cadena."
+        },
+        {
+            "pregunta": "¿Qué método de lista se usa para ordenar los elementos de una lista en Python?",
+            "opciones": [
+                "sort()",
+                "order()",
+                "sorted()",
+                "arrange()"
+            ],
+            "respuesta": 1,
+            "explicacion": "El método `sort()` ordena los elementos de la lista en su lugar, es decir, modifica la lista original.",
+            "pista": "También existe `sorted()` que devuelve una nueva lista ordenada sin modificar la original."
+        },
+        {
+            "pregunta": "¿Cómo se define una clase en Python?",
+            "opciones": [
+                "class MiClase():",
+                "class MiClase[]:",
+                "MiClase = class:",
+                "class MiClase {}"
+            ],
+            "respuesta": 1,
+            "explicacion": "Para definir una clase en Python, se usa la palabra clave `class` seguida del nombre de la clase y dos puntos.",
+            "pista": "Las clases en Python se definen con la palabra clave `class`."
+        },
+        {
+            "pregunta": "¿Cómo se llama el método especial que permite representar un objeto de una clase como una cadena de texto en Python?",
+            "opciones": [
+                "__str__()",
+                "__repr__()",
+                "__print__()",
+                "__to_string__()"
+            ],
+            "respuesta": 1,
+            "explicacion": "`__str__()` es el método especial que devuelve una representación en forma de cadena de un objeto. Es utilizado por `print()` y `str()`.",
+            "pista": "Este método es útil cuando se quiere personalizar cómo se muestra un objeto."
+        },
+        {
+            "pregunta": "¿Qué hace el siguiente código? \n`a = [1, 2, 3, 4]\nprint(a[::2])`",
+            "opciones": [
+                "Imprime [1, 2, 3, 4]",
+                "Imprime [1, 3]",
+                "Imprime [2, 4]",
+                "Imprime un error de índice"
+            ],
+            "respuesta": 2,
+            "explicacion": "El operador `::2` hace un *slicing* de la lista, comenzando desde el primer elemento y tomando cada segundo elemento.",
+            "pista": "El operador `::` se usa para cortar listas en pasos específicos."
+        },
+        {
+            "pregunta": "¿Cómo se puede añadir un elemento a un conjunto en Python?",
+            "opciones": [
+                "add()",
+                "insert()",
+                "append()",
+                "push()"
+            ],
+            "respuesta": 1,
+            "explicacion": "El método `add()` se utiliza para añadir un elemento a un conjunto en Python.",
+            "pista": "Los conjuntos en Python son colecciones desordenadas de elementos únicos."
+        },
+        {
+            "pregunta": "¿Cómo crearías un diccionario vacío en Python?",
+            "opciones": [
+                "d = {}",
+                "d = []",
+                "d = set()",
+                "d = ()"
+            ],
+            "respuesta": 1,
+            "explicacion": "El diccionario vacío se crea utilizando las llaves `{}` en Python.",
+            "pista": "Los diccionarios son colecciones no ordenadas de pares clave-valor."
+        },
+        {
+            "pregunta": "¿Cuál es el resultado de la operación `3 ** 2` en Python?",
+            "opciones": [
+                "6",
+                "9",
+                "5",
+                "8"
+            ],
+            "respuesta": 2,
+            "explicacion": "El operador `**` en Python se utiliza para realizar potencias. `3 ** 2` es igual a 3 elevado a la 2, que da 9.",
+            "pista": "Este operador se usa para calcular la exponenciación."
+        },
+        {
+            "pregunta": "¿Qué devuelve el método `pop()` en un diccionario de Python?",
+            "opciones": [
+                "El valor de la clave eliminada",
+                "True si se eliminó correctamente",
+                "None",
+                "El valor de la clave sin eliminarla"
+            ],
+            "respuesta": 1,
+            "explicacion": "`pop()` elimina la clave especificada y devuelve el valor correspondiente a esa clave.",
+            "pista": "Si no se encuentra la clave, se puede proporcionar un valor predeterminado."
+        },
+        {
+            "pregunta": "¿Cuál es la forma correcta de manejar una excepción en Python?",
+            "opciones": [
+                "try{} except{}",
+                "try: except:",
+                "begin: rescue:",
+                "try: catch:"
+            ],
+            "respuesta": 2,
+            "explicacion": "En Python, se usa `try` para ejecutar código y `except` para manejar excepciones si ocurren.",
+            "pista": "Es importante utilizar `except` para manejar errores de forma controlada."
+        },
+        {
+            "pregunta": "¿Cómo puedes verificar si una clave existe en un diccionario?",
+            "opciones": [
+                "if key in dict",
+                "if dict.contains(key)",
+                "if dict.get(key)",
+                "if dict[key]"
+            ],
+            "respuesta": 1,
+            "explicacion": "La forma correcta de verificar si una clave está presente en un diccionario es usando el operador `in`.",
+            "pista": "El operador `in` devuelve `True` si la clave existe en el diccionario."
+        },
+        {
+            "pregunta": "¿Cuál es el resultado de ejecutar el siguiente código en Python? \n`a = [1, 2, 3]\nb = a\nb[0] = 10\nprint(a)`",
+            "opciones": [
+                "[10, 2, 3]",
+                "[1, 2, 3]",
+                "[10, 2, 3, 10]",
+                "[10, 10, 10]"
+            ],
+            "respuesta": 1,
+            "explicacion": "Cuando se asigna `b = a`, `b` y `a` se refieren al mismo objeto en memoria. Modificar `b` también modifica `a`.",
+            "pista": "En Python, las listas son mutables y pasan por referencia."
+        },
+        {
+            "pregunta": "¿Cómo se puede asegurar que un bloque de código en Python se ejecute independientemente de si ocurre una excepción o no?",
+            "opciones": [
+                "finally",
+                "except",
+                "else",
+                "end"
+            ],
+            "respuesta": 1,
+            "explicacion": "El bloque `finally` se ejecuta siempre, independientemente de si se lanza o no una excepción dentro del bloque `try`.",
+            "pista": "Este bloque es útil para realizar limpieza de recursos, como cerrar archivos o conexiones."
+        }
+    ],
+    "Historia": [
+        {
+            "pregunta": "¿En qué año terminó la Segunda Guerra Mundial?",
+            "opciones": [
+                "1940",
+                "1941",
+                "1945",
+                "1939"
+            ],
+            "respuesta": 3,
+            "explicacion": "La Segunda Guerra Mundial terminó oficialmente el 2 de septiembre de 1945 con la rendición de Japón.",
+            "pista": "El conflicto finalizó después de la rendición de las fuerzas del Eje."
+        },
+        {
+            "pregunta": "¿Qué evento histórico dio inicio a la Revolución Francesa?",
+            "opciones": [
+                "La firma de la Declaración de los Derechos del Hombre",
+                "La ejecución de Luis XVI",
+                "La toma de la Bastilla",
+                "La coronación de Luis XVI"
+            ],
+            "respuesta": 3,
+            "explicacion": "El 14 de julio de 1789, la toma de la Bastilla marcó el inicio simbólico de la Revolución Francesa.",
+            "pista": "La Bastilla era una prisión utilizada por el régimen de Luis XVI."
+        },
+        {
+            "pregunta": "¿En qué año se produjo la caída del Imperio Romano de Occidente?",
+            "opciones": [
+                "395 d.C.",
+                "476 d.C.",
+                "410 d.C.",
+                "500 d.C."
+            ],
+            "respuesta": 2,
+            "explicacion": "El Imperio Romano de Occidente cayó en 476 d.C. cuando el último emperador, Rómulo Augústulo, fue depuesto por el líder bárbaro Odoacro.",
+            "pista": "Este evento marcó el fin de la Antigua Roma y el inicio de la Edad Media."
+        },
+        {
+            "pregunta": "¿Quién fue el líder de la Revolución Rusa de 1917?",
+            "opciones": [
+                "Joseph Stalin",
+                "Vladimir Lenin",
+                "Leon Trotsky",
+                "Nikita Jrushchov"
+            ],
+            "respuesta": 2,
+            "explicacion": "Lenin fue el líder del Partido Bolchevique que lideró la Revolución Rusa en 1917, derrocando al gobierno provisional.",
+            "pista": "Lenin fundó la Unión Soviética tras la revolución."
+        },
+        {
+            "pregunta": "¿Qué tratado puso fin a la Primera Guerra Mundial?",
+            "opciones": [
+                "Tratado de Versalles",
+                "Tratado de Tordesillas",
+                "Tratado de París",
+                "Tratado de Utrecht"
+            ],
+            "respuesta": 1,
+            "explicacion": "El Tratado de Versalles se firmó en 1919 y puso fin a la Primera Guerra Mundial, imponiendo duras sanciones a Alemania.",
+            "pista": "Este tratado fue uno de los eventos clave en la configuración del siglo XX."
+        },
+        {
+            "pregunta": "¿Cuál fue el principal objetivo de la Conferencia de Yalta en 1945?",
+            "opciones": [
+                "Decidir el destino de Alemania",
+                "Reorganizar Europa tras la Segunda Guerra Mundial",
+                "Dividir el mundo en esferas de influencia",
+                "Discutir el futuro de Japón"
+            ],
+            "respuesta": 2,
+            "explicacion": "En la Conferencia de Yalta, celebrada en febrero de 1945, los líderes aliados discutieron la reorganización de Europa tras la victoria sobre la Alemania nazi.",
+            "pista": "La conferencia fue un punto clave en la creación de la Guerra Fría."
+        },
+        {
+            "pregunta": "¿Quién fue el emperador romano en el momento de la destrucción de Pompeya en el año 79 d.C.?",
+            "opciones": [
+                "Tito",
+                "Nerón",
+                "Augusto",
+                "César Augusto"
+            ],
+            "respuesta": 1,
+            "explicacion": "El emperador Tito, hijo de Vespasiano, estaba en el poder cuando el monte Vesubio entró en erupción y destruyó Pompeya en 79 d.C.",
+            "pista": "Tito también fue conocido por completar la destrucción de Jerusalén en 70 d.C."
+        },
+        {
+            "pregunta": "¿En qué año comenzó la Guerra de Independencia de los Estados Unidos?",
+            "opciones": [
+                "1775",
+                "1776",
+                "1783",
+                "1791"
+            ],
+            "respuesta": 1,
+            "explicacion": "La Guerra de Independencia de los Estados Unidos comenzó en 1775 con los enfrentamientos entre las colonias americanas y el ejército británico.",
+            "pista": "La declaración formal de independencia ocurrió en 1776."
+        },
+        {
+            "pregunta": "¿Qué país fue el primero en otorgar el derecho al voto a las mujeres?",
+            "opciones": [
+                "Reino Unido",
+                "Francia",
+                "Estados Unidos",
+                "Nueva Zelanda"
+            ],
+            "respuesta": 4,
+            "explicacion": "Nueva Zelanda fue el primer país en permitir a las mujeres votar en 1893.",
+            "pista": "Este evento fue un hito importante en la lucha por los derechos de las mujeres."
+        },
+        {
+            "pregunta": "¿En qué año se firmó la Carta Magna en Inglaterra?",
+            "opciones": [
+                "1215",
+                "1295",
+                "1154",
+                "1100"
+            ],
+            "respuesta": 1,
+            "explicacion": "La Carta Magna fue firmada en 1215 por el rey Juan I de Inglaterra, limitando los poderes del monarca y estableciendo derechos fundamentales.",
+            "pista": "Este documento es uno de los primeros en garantizar derechos civiles."
+        },
+        {
+            "pregunta": "¿Quién fue el líder del Imperio Mongol durante su expansión más grande?",
+            "opciones": [
+                "Kublai Khan",
+                "Tamerlán",
+                "Genghis Khan",
+                "Marco Polo"
+            ],
+            "respuesta": 3,
+            "explicacion": "Genghis Khan fue el líder que unificó las tribus mongolas y expandió el Imperio Mongol a su máxima extensión.",
+            "pista": "Genghis Khan fundó el imperio que se convirtió en el más grande de la historia."
+        },
+        {
+            "pregunta": "¿En qué año se produjo el ataque a Pearl Harbor?",
+            "opciones": [
+                "1940",
+                "1939",
+                "1941",
+                "1944"
+            ],
+            "respuesta": 3,
+            "explicacion": "El ataque a Pearl Harbor ocurrió el 7 de diciembre de 1941, un evento que provocó la entrada de Estados Unidos en la Segunda Guerra Mundial.",
+            "pista": "Este ataque fue llevado a cabo por la Armada Imperial Japonesa."
+        },
+        {
+            "pregunta": "¿Quién fue el líder de la Reforma Protestante en el siglo XVI?",
+            "opciones": [
+                "Martín Lutero",
+                "Juan Calvino",
+                "Enrique VIII",
+                "Ulrich Zwingli"
+            ],
+            "respuesta": 1,
+            "explicacion": "Martín Lutero fue el teólogo alemán que inició la Reforma Protestante al publicar sus 95 tesis en 1517.",
+            "pista": "Lutero criticó las indulgencias y la autoridad de la Iglesia Católica."
+        },
+        {
+            "pregunta": "¿Qué imperio conquistó Constantinopla en 1453?",
+            "opciones": [
+                "Imperio Otomano",
+                "Imperio Romano",
+                "Imperio Bizantino",
+                "Imperio Persa"
+            ],
+            "respuesta": 1,
+            "explicacion": "El Imperio Otomano, bajo el sultán Mehmed II, conquistó Constantinopla en 1453, marcando el fin del Imperio Bizantino.",
+            "pista": "Este evento marcó el fin de la Edad Media y el comienzo de la Edad Moderna."
+        },
+        {
+            "pregunta": "¿En qué año comenzó la Revolución Industrial?",
+            "opciones": [
+                "1760",
+                "1800",
+                "1700",
+                "1850"
+            ],
+            "respuesta": 1,
+            "explicacion": "La Revolución Industrial comenzó en el Reino Unido alrededor de 1760, transformando la producción con la introducción de maquinaria y nuevas técnicas.",
+            "pista": "Este periodo cambió profundamente la economía y la sociedad a nivel mundial."
+        },
+        {
+            "pregunta": "¿Qué emperador romano construyó el Muro de Adriano?",
+            "opciones": [
+                "Adriano",
+                "Nerón",
+                "César Augusto",
+                "Tito"
+            ],
+            "respuesta": 1,
+            "explicacion": "El Muro de Adriano fue construido bajo el reinado del emperador Adriano, entre 122 y 128 d.C., como defensa contra los pueblos del norte.",
+            "pista": "Este muro marcó la frontera del Imperio Romano en Gran Bretaña."
+        },
+        {
+            "pregunta": "¿En qué año se independizó Haití de Francia?",
+            "opciones": [
+                "1791",
+                "1820",
+                "1804",
+                "1815"
+            ],
+            "respuesta": 3,
+            "explicacion": "Haití se independizó de Francia en 1804 después de una exitosa revolución de esclavos liderada por Toussaint Louverture.",
+            "pista": "Haití fue la primera nación independiente en América Latina."
+        },
+        {
+            "pregunta": "¿Quién fue el último zar de Rusia?",
+            "opciones": [
+                "Pedro el Grande",
+                "Iván el Terrible",
+                "Nicolás II",
+                "Alejandro III"
+            ],
+            "respuesta": 3,
+            "explicacion": "Nicolás II fue el último zar de Rusia, y fue derrocado durante la Revolución Rusa de 1917.",
+            "pista": "Nicolás II y su familia fueron ejecutados en 1918."
+        },
+        {
+            "pregunta": "¿Qué rey francés fue conocido como 'El Sol Rey'?",
+            "opciones": [
+                "Luis XI",
+                "Carlos VII",
+                "Luis XVI",
+                "Luis XIV"
+            ],
+            "respuesta": 4,
+            "explicacion": "Luis XIV, conocido como el 'Rey Sol', fue el monarca que gobernó Francia durante 72 años, desde 1643 hasta su muerte en 1715.",
+            "pista": "Luis XIV es famoso por su palacio de Versalles y su absoluto control del poder."
+        },
+        {
+            "pregunta": "¿En qué batalla se decidió el destino de la Guerra de Independencia de los Estados Unidos?",
+            "opciones": [
+                "Batalla de Saratoga",
+                "Batalla de Yorktown",
+                "Batalla de Bunker Hill",
+                "Batalla de Lexington"
+            ],
+            "respuesta": 2,
+            "explicacion": "La Batalla de Yorktown, en 1781, fue decisiva en la Guerra de Independencia de los Estados Unidos, ya que las fuerzas británicas se rindieron ante el ejército combinado estadounidense y francés.",
+            "pista": "La rendición británica en esta batalla llevó a las negociaciones para el fin del conflicto."
+        }
+    ],
+    "Cultura General": [
+        {
+            "pregunta": "¿Quién fue el autor de la teoría de la relatividad?",
+            "opciones": [
+                "Isaac Newton",
+                "Nikola Tesla",
+                "Albert Einstein",
+                "Marie Curie"
+            ],
+            "respuesta": 3,
+            "explicacion": "Albert Einstein desarrolló la teoría de la relatividad, una de las dos grandes teorías fundamentales de la física moderna.",
+            "pista": "Einstein recibió el Premio Nobel de Física en 1921."
+        },
+        {
+            "pregunta": "¿En qué país se originó la civilización inca?",
+            "opciones": [
+                "Perú",
+                "Bolivia",
+                "México",
+                "Argentina"
+            ],
+            "respuesta": 1,
+            "explicacion": "La civilización inca se originó en la región andina, en lo que hoy es el Perú, y se expandió por gran parte de Sudamérica.",
+            "pista": "Los incas eran conocidos por su gran capacidad de ingeniería, como la construcción de Machu Picchu."
+        },
+        {
+            "pregunta": "¿Qué pintura famosa de Leonardo da Vinci se encuentra en el Museo del Louvre de París?",
+            "opciones": [
+                "La Última Cena",
+                "La Mona Lisa",
+                "El Hombre de Vitruvio",
+                "La Virgen de las Rocas"
+            ],
+            "respuesta": 2,
+            "explicacion": "La Mona Lisa es una de las obras más famosas de Leonardo da Vinci y está expuesta en el Museo del Louvre en París.",
+            "pista": "La pintura es conocida por la enigmática sonrisa de su sujeto."
+        },
+        {
+            "pregunta": "¿Qué famoso físico es conocido por sus contribuciones a la mecánica cuántica y la teoría de los quanta?",
+            "opciones": [
+                "Niels Bohr",
+                "Max Planck",
+                "Erwin Schrödinger",
+                "Albert Einstein"
+            ],
+            "respuesta": 2,
+            "explicacion": "Max Planck es considerado el padre de la teoría cuántica, por su propuesta de que la energía se emite en paquetes discretos llamados 'cuantos'.",
+            "pista": "El 'cuanto' es una de las bases fundamentales de la mecánica cuántica."
+        },
+        {
+            "pregunta": "¿Cuál es el nombre del río más largo del mundo?",
+            "opciones": [
+                "Río Amazonas",
+                "Río Nilo",
+                "Río Yangtsé",
+                "Río Misisipi"
+            ],
+            "respuesta": 1,
+            "explicacion": "El río Amazonas es el río más largo del mundo, con aproximadamente 7,062 km de longitud, y fluye a través de América del Sur.",
+            "pista": "El Amazonas también tiene la cuenca fluvial más grande del planeta."
+        },
+        {
+            "pregunta": "¿En qué país se encuentra la antigua ciudad de Petra?",
+            "opciones": [
+                "Jordania",
+                "Egipto",
+                "Irak",
+                "Siria"
+            ],
+            "respuesta": 1,
+            "explicacion": "Petra, una antigua ciudad nabatea, se encuentra en Jordania y es famosa por sus estructuras esculpidas en roca.",
+            "pista": "Petra fue una ciudad próspera y un importante cruce de rutas comerciales en la antigüedad."
+        },
+        {
+            "pregunta": "¿Qué famoso filósofo griego fue condenado a muerte por corromper a la juventud de Atenas?",
+            "opciones": [
+                "Platón",
+                "Aristóteles",
+                "Sócrates",
+                "Pitágoras"
+            ],
+            "respuesta": 3,
+            "explicacion": "Sócrates fue condenado a muerte en 399 a.C. en Atenas por corromper a la juventud con sus enseñanzas filosóficas y por no respetar los dioses de la ciudad.",
+            "pista": "Sócrates no dejó escritos, por lo que todo lo que sabemos de él proviene de sus discípulos."
+        },
+        {
+            "pregunta": "¿Quién es considerado el 'Padre de la Patria' en los Estados Unidos?",
+            "opciones": [
+                "Abraham Lincoln",
+                "George Washington",
+                "Thomas Jefferson",
+                "Benjamin Franklin"
+            ],
+            "respuesta": 2,
+            "explicacion": "George Washington fue el primer presidente de los Estados Unidos y es conocido como el 'Padre de la Patria' por su papel en la independencia y formación de la nación.",
+            "pista": "Washington también fue comandante en jefe del Ejército Continental durante la Revolución Americana."
+        },
+        {
+            "pregunta": "¿En qué año se inauguró la Torre Eiffel en París?",
+            "opciones": [
+                "1889",
+                "1900",
+                "1855",
+                "1924"
+            ],
+            "respuesta": 1,
+            "explicacion": "La Torre Eiffel fue inaugurada en 1889 como una de las principales atracciones de la Exposición Universal de París.",
+            "pista": "Fue diseñada por Gustave Eiffel y originalmente iba a ser una estructura temporal."
+        },
+        {
+            "pregunta": "¿Cuál fue el primer país en enviar un ser humano al espacio?",
+            "opciones": [
+                "Estados Unidos",
+                "Unión Soviética",
+                "China",
+                "Francia"
+            ],
+            "respuesta": 1,
+            "explicacion": "La Unión Soviética fue el primer país en enviar a un ser humano al espacio, con Yuri Gagarin, el 12 de abril de 1961.",
+            "pista": "Yuri Gagarin orbító la Tierra una vez antes de regresar a la atmósfera."
+        },
+        {
+            "pregunta": "¿Qué continente se conoce como el 'continente negro'?",
+            "opciones": [
+                "Asia",
+                "África",
+                "América del Sur",
+                "Australia"
+            ],
+            "respuesta": 2,
+            "explicacion": "África es conocida como el 'continente negro' debido al color de su población mayoritaria, originaria de las etnias africanas.",
+            "pista": "África es el segundo continente más grande del mundo y cuna de la humanidad."
+        },
+        {
+            "pregunta": "¿Qué antiguo imperio tenía como capital la ciudad de Babilonia?",
+            "opciones": [
+                "Imperio Romano",
+                "Imperio Persa",
+                "Imperio Babilónico",
+                "Imperio Asirio"
+            ],
+            "respuesta": 3,
+            "explicacion": "Babilonia fue la capital del Imperio Babilónico y es famosa por sus jardines colgantes, considerados una de las siete maravillas del mundo antiguo.",
+            "pista": "Babilonia estaba situada en la actual Irak."
+        },
+        {
+            "pregunta": "¿Quién pintó el mural 'La última cena'?",
+            "opciones": [
+                "Pablo Picasso",
+                "Leonardo da Vinci",
+                "Vincent van Gogh",
+                "Michelangelo"
+            ],
+            "respuesta": 2,
+            "explicacion": "'La última cena' es una famosa obra de Leonardo da Vinci que representa el momento en que Jesús anuncia que uno de sus discípulos lo traicionará.",
+            "pista": "Este mural está ubicado en el convento de Santa Maria delle Grazie en Milán."
+        },
+        {
+            "pregunta": "¿En qué país se encuentra la ciudad de El Cairo?",
+            "opciones": [
+                "Egipto",
+                "Jordania",
+                "Turquía",
+                "Arabia Saudita"
+            ],
+            "respuesta": 1,
+            "explicacion": "El Cairo es la capital de Egipto y la ciudad más grande del mundo árabe.",
+            "pista": "El Cairo es conocida por su proximidad a las Pirámides de Giza."
+        },
+        {
+            "pregunta": "¿Qué famoso físico desarrolló la ecuación E=mc²?",
+            "opciones": [
+                "Albert Einstein",
+                "Niels Bohr",
+                "Isaac Newton",
+                "Galileo Galilei"
+            ],
+            "respuesta": 1,
+            "explicacion": "Albert Einstein formuló la famosa ecuación E=mc², que expresa la equivalencia entre la energía y la masa.",
+            "pista": "Esta fórmula revolucionó la física y tuvo profundas implicaciones en el desarrollo de la energía nuclear."
+        },
+        {
+            "pregunta": "¿Qué famoso monumento está ubicado en la ciudad de Agra, India?",
+            "opciones": [
+                "La Gran Muralla China",
+                "Taj Mahal",
+                "Coliseo",
+                "Pirámides de Giza"
+            ],
+            "respuesta": 2,
+            "explicacion": "El Taj Mahal es un mausoleo de mármol blanco construido en Agra por el emperador mogol Shah Jahan en memoria de su esposa Mumtaz Mahal.",
+            "pista": "Este monumento es considerado una de las siete maravillas del mundo moderno."
+        },
+        {
+            "pregunta": "¿En qué país se encuentra la ciudad de Machu Picchu?",
+            "opciones": [
+                "Perú",
+                "Chile",
+                "Colombia",
+                "Ecuador"
+            ],
+            "respuesta": 1,
+            "explicacion": "Machu Picchu es una antigua ciudad inca ubicada en los Andes, en Perú, y es una de las nuevas siete maravillas del mundo.",
+            "pista": "La ciudad fue redescubierta en 1911 por Hiram Bingham."
+        },
+        {
+            "pregunta": "¿Qué océano se encuentra al este de África?",
+            "opciones": [
+                "Océano Atlántico",
+                "Océano Índico",
+                "Océano Pacífico",
+                "Océano Ártico"
+            ],
+            "respuesta": 2,
+            "explicacion": "El Océano Índico se encuentra al este de África y es el tercer océano más grande del mundo.",
+            "pista": "El Océano Índico es importante para el comercio entre Asia, África y Australia."
+        },
+        {
+            "pregunta": "¿Cuál es el nombre del primer ser humano que viajó al espacio?",
+            "opciones": [
+                "Neil Armstrong",
+                "Yuri Gagarin",
+                "Buzz Aldrin",
+                "John Glenn"
+            ],
+            "respuesta": 2,
+            "explicacion": "Yuri Gagarin, cosmonauta soviético, fue el primer ser humano en viajar al espacio el 12 de abril de 1961 a bordo de la nave Vostok 1.",
+            "pista": "Su vuelo duró 108 minutos y orbitó la Tierra una vez."
+        },
+        {
+            "pregunta": "¿Qué ciudad fue la capital del Imperio Romano durante la mayor parte de su existencia?",
+            "opciones": [
+                "Roma",
+                "Atenas",
+                "Constantinopla",
+                "Carthago"
+            ],
+            "respuesta": 1,
+            "explicacion": "Roma fue la capital del Imperio Romano desde su fundación hasta la caída del Imperio Romano de Occidente en el siglo V.",
+            "pista": "Roma también es conocida como la 'Ciudad Eterna'."
+        }
+    ],
+    "Deportes": [
+        {
+            "pregunta": "¿Quién es el máximo goleador histórico de la selección nacional de fútbol de Brasil?",
+            "opciones": [
+                "Neymar",
+                "Pelé",
+                "Ronaldo",
+                "Romario"
+            ],
+            "respuesta": 1,
+            "explicacion": "Neymar se convirtió en el máximo goleador histórico de la selección de Brasil en 2022, superando a Pelé.",
+            "pista": "Neymar ha jugado en varias Copas del Mundo y competiciones internacionales con Brasil."
+        },
+        {
+            "pregunta": "¿En qué año se celebró la primera Copa del Mundo de fútbol?",
+            "opciones": [
+                "1930",
+                "1920",
+                "1940",
+                "1950"
+            ],
+            "respuesta": 1,
+            "explicacion": "La primera Copa del Mundo de fútbol se celebró en 1930 en Uruguay, donde el país anfitrión se coronó campeón.",
+            "pista": "Uruguay fue el primer país en organizar y ganar el torneo."
+        },
+        {
+            "pregunta": "¿En qué equipo jugó Michael Jordan al final de su carrera en la NBA?",
+            "opciones": [
+                "Chicago Bulls",
+                "Los Angeles Lakers",
+                "Washington Wizards",
+                "Miami Heat"
+            ],
+            "respuesta": 3,
+            "explicacion": "Michael Jordan regresó a la NBA en 2001 para jugar con los Washington Wizards, después de su retiro con los Chicago Bulls.",
+            "pista": "Jordan jugó con los Wizards hasta su retiro definitivo en 2003."
+        },
+        {
+            "pregunta": "¿Qué tenista tiene el récord de más títulos de Grand Slam en la historia del tenis masculino?",
+            "opciones": [
+                "Roger Federer",
+                "Rafael Nadal",
+                "Novak Djokovic",
+                "Pete Sampras"
+            ],
+            "respuesta": 3,
+            "explicacion": "Novak Djokovic superó a Roger Federer y Rafael Nadal en 2021 al ganar su 21º título de Grand Slam, el mayor en la historia del tenis masculino.",
+            "pista": "Djokovic ha ganado todos los Grand Slam al menos dos veces."
+        },
+        {
+            "pregunta": "¿Quién fue el primer atleta en correr los 100 metros en menos de 9.6 segundos?",
+            "opciones": [
+                "Carl Lewis",
+                "Usain Bolt",
+                "Michael Johnson",
+                "Donovan Bailey"
+            ],
+            "respuesta": 2,
+            "explicacion": "Usain Bolt estableció un nuevo récord mundial de 9.58 segundos en los 100 metros en 2009, convirtiéndose en el primer atleta en romper la barrera de los 9.6 segundos.",
+            "pista": "Este récord aún permanece intacto en la actualidad."
+        },
+        {
+            "pregunta": "¿Qué país ha ganado más Copas del Mundo de Rugby?",
+            "opciones": [
+                "Sudáfrica",
+                "Nueva Zelanda",
+                "Australia",
+                "Inglaterra"
+            ],
+            "respuesta": 2,
+            "explicacion": "Nueva Zelanda ha ganado tres Copas del Mundo de Rugby (1987, 2011, 2015), lo que la coloca como el país más exitoso en este torneo.",
+            "pista": "Los 'All Blacks' son conocidos por su haka, un tradicional baile maorí."
+        },
+        {
+            "pregunta": "¿Cuál es el nombre del estadio donde juega el Real Madrid?",
+            "opciones": [
+                "Camp Nou",
+                "Parque de los Príncipes",
+                "Santiago Bernabéu",
+                "Old Trafford"
+            ],
+            "respuesta": 3,
+            "explicacion": "El Santiago Bernabéu es el estadio histórico del Real Madrid, ubicado en Madrid, España.",
+            "pista": "Este estadio ha sido sede de numerosas finales de competiciones internacionales."
+        },
+        {
+            "pregunta": "¿En qué país se celebraron los primeros Juegos Olímpicos modernos en 1896?",
+            "opciones": [
+                "Grecia",
+                "Francia",
+                "Inglaterra",
+                "Alemania"
+            ],
+            "respuesta": 1,
+            "explicacion": "Los primeros Juegos Olímpicos modernos se celebraron en Atenas, Grecia, en 1896, con la participación de 13 países.",
+            "pista": "Atenas sigue siendo la sede de importantes competiciones internacionales."
+        },
+        {
+            "pregunta": "¿Cuál es el récord de goles marcados por un solo jugador en una Copa del Mundo?",
+            "opciones": [
+                "Miroslav Klose",
+                "Ronaldo Nazário",
+                "Just Fontaine",
+                "Pelé"
+            ],
+            "respuesta": 3,
+            "explicacion": "Just Fontaine marcó 13 goles en la Copa del Mundo de 1958, un récord que aún permanece intacto.",
+            "pista": "Fontaine es considerado uno de los mejores goleadores de todos los tiempos."
+        },
+        {
+            "pregunta": "¿Quién tiene el récord de más medallas olímpicas de oro en la historia?",
+            "opciones": [
+                "Michael Phelps",
+                "Usain Bolt",
+                "Larisa Latynina",
+                "Carl Lewis"
+            ],
+            "respuesta": 1,
+            "explicacion": "Michael Phelps tiene el récord de más medallas olímpicas de oro con un total de 23 en la natación.",
+            "pista": "Phelps participó en cinco ediciones de los Juegos Olímpicos."
+        },
+        {
+            "pregunta": "¿Quién ganó el primer Tour de Francia en 1903?",
+            "opciones": [
+                "Eddy Merckx",
+                "Jacques Anquetil",
+                "Maurice Garin",
+                "Bernard Hinault"
+            ],
+            "respuesta": 3,
+            "explicacion": "Maurice Garin fue el primer ganador del Tour de Francia en 1903, la primera edición de la histórica carrera.",
+            "pista": "Garin también ganó el Tour en 1904, aunque fue descalificado por hacer trampas."
+        },
+        {
+            "pregunta": "¿Qué atleta estadounidense es conocido por su victoria en los 100 metros en los Juegos Olímpicos de 1968 con un gesto de protesta?",
+            "opciones": [
+                "Tommy Smith",
+                "John Carlos",
+                "Michael Johnson",
+                "Carl Lewis"
+            ],
+            "respuesta": 1,
+            "explicacion": "Tommy Smith ganó la medalla de oro en los 200 metros en los Juegos Olímpicos de 1968, y durante la ceremonia de premiación levantó el puño en un gesto de protesta contra la injusticia racial.",
+            "pista": "Este acto fue un símbolo poderoso durante los movimientos de derechos civiles."
+        },
+        {
+            "pregunta": "¿En qué año se jugó la primera Copa América de fútbol?",
+            "opciones": [
+                "1916",
+                "1923",
+                "1900",
+                "1930"
+            ],
+            "respuesta": 1,
+            "explicacion": "La primera Copa América se celebró en 1916 en Argentina, con la participación de varias selecciones sudamericanas.",
+            "pista": "Este torneo es el campeonato más antiguo de selecciones nacionales de fútbol en el continente americano."
+        },
+        {
+            "pregunta": "¿Quién fue el primer jugador en alcanzar los 500 goles en la NBA?",
+            "opciones": [
+                "Wilt Chamberlain",
+                "Kareem Abdul-Jabbar",
+                "Michael Jordan",
+                "LeBron James"
+            ],
+            "respuesta": 1,
+            "explicacion": "Wilt Chamberlain fue el primer jugador en la NBA en anotar más de 500 puntos en una sola temporada.",
+            "pista": "Chamberlain es conocido por sus récords impresionantes de anotación y rebotes."
+        },
+        {
+            "pregunta": "¿Qué equipo de fútbol tiene el récord de más títulos de la Liga de Campeones de la UEFA?",
+            "opciones": [
+                "FC Barcelona",
+                "Real Madrid",
+                "AC Milan",
+                "Liverpool"
+            ],
+            "respuesta": 2,
+            "explicacion": "El Real Madrid tiene el récord de más títulos de la Liga de Campeones de la UEFA, con 13 victorias en total.",
+            "pista": "Este equipo ha dominado la competición durante décadas."
+        },
+        {
+            "pregunta": "¿Qué corredor africano tiene el récord mundial de los 10,000 metros?",
+            "opciones": [
+                "Haile Gebrselassie",
+                "Kenenisa Bekele",
+                "Eliud Kipchoge",
+                "Sifan Hassan"
+            ],
+            "respuesta": 2,
+            "explicacion": "Kenenisa Bekele, de Etiopía, tiene el récord mundial de los 10,000 metros con un tiempo de 26:17.53.",
+            "pista": "Bekele también tiene múltiples títulos en los campeonatos mundiales de atletismo."
+        },
+        {
+            "pregunta": "¿En qué año se celebró el primer Mundial de Fútbol Femenino?",
+            "opciones": [
+                "1991",
+                "1999",
+                "1989",
+                "2003"
+            ],
+            "respuesta": 1,
+            "explicacion": "El primer Mundial de Fútbol Femenino se celebró en 1991 en China, siendo la selección de los Estados Unidos la primera campeona.",
+            "pista": "Este torneo marcó el comienzo del crecimiento del fútbol femenino a nivel global."
+        },
+        {
+            "pregunta": "¿Quién fue el primer boxeador en ganar cinco títulos mundiales en diferentes categorías de peso?",
+            "opciones": [
+                "Sugar Ray Leonard",
+                "Floyd Mayweather",
+                "Manny Pacquiao",
+                "Oscar De La Hoya"
+            ],
+            "respuesta": 3,
+            "explicacion": "Manny Pacquiao hizo historia al convertirse en el primer boxeador en ganar títulos mundiales en cinco categorías diferentes de peso.",
+            "pista": "Pacquiao es conocido por su velocidad y agilidad en el ring, así como por su impacto en el boxeo mundial."
+        },
+        {
+            "pregunta": "¿Quién ostenta el récord de más goles en una temporada de la Liga Española?",
+            "opciones": [
+                "Lionel Messi",
+                "Cristiano Ronaldo",
+                "Karim Benzema",
+                "Luis Suárez"
+            ],
+            "respuesta": 1,
+            "explicacion": "Lionel Messi ostenta el récord de más goles en una temporada de la Liga Española, con 50 goles anotados en la temporada 2011-2012.",
+            "pista": "Messi rompió el récord previamente establecido por Telmo Zarra."
+        },
+        {
+            "pregunta": "¿Quién es el ciclista con más victorias en el Tour de Francia?",
+            "opciones": [
+                "Eddy Merckx",
+                "Bernard Hinault",
+                "Miguel Induráin",
+                "Lance Armstrong"
+            ],
+            "respuesta": 1,
+            "explicacion": "Eddy Merckx es el ciclista con más victorias en el Tour de Francia, con un total de cinco títulos (1969, 1970, 1971, 1972, 1974).",
+            "pista": "Merckx es considerado uno de los mejores ciclistas de todos los tiempos, con una carrera impresionante."
+        }
+    ]
+}

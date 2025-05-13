@@ -1,0 +1,1442 @@
+{
+    "Programación": [
+        {
+            "pregunta": "¿Qué tipo de dato es 'True' en Python?",
+            "opciones": [
+                "str",
+                "bool",
+                "int",
+                "float"
+            ],
+            "respuesta": 2,
+            "explicacion": "En Python, 'True' es un valor booleano del tipo 'bool', que representa verdadero.",
+            "pista": "Este tipo solo tiene dos valores: True y False."
+        },
+        {
+            "pregunta": "¿Qué hace el comando 'print' en Python?",
+            "opciones": [
+                "Muestra un mensaje en la pantalla",
+                "Calcula un valor",
+                "Define una función",
+                "Detiene el programa"
+            ],
+            "respuesta": 1,
+            "explicacion": "El comando 'print' en Python imprime un mensaje o valor en la pantalla.",
+            "pista": "Se usa para mostrar información al usuario."
+        },
+        {
+            "pregunta": "¿Qué tipo de datos se usa para representar números enteros en Python?",
+            "opciones": [
+                "str",
+                "float",
+                "int",
+                "bool"
+            ],
+            "respuesta": 3,
+            "explicacion": "En Python, el tipo de dato 'int' se usa para representar números enteros.",
+            "pista": "Este tipo de dato es utilizado para números sin decimales."
+        },
+        {
+            "pregunta": "¿Qué símbolo se usa para comentar una línea en Python?",
+            "opciones": [
+                "#",
+                "//",
+                "/*",
+                "%%"
+            ],
+            "respuesta": 1,
+            "explicacion": "En Python, se usa el símbolo '#' para comentar una línea de código.",
+            "pista": "Es utilizado para agregar notas o explicaciones dentro del código."
+        },
+        {
+            "pregunta": "¿Qué comando en Python se utiliza para importar una librería?",
+            "opciones": [
+                "load",
+                "include",
+                "require",
+                "import"
+            ],
+            "respuesta": 4,
+            "explicacion": "El comando 'import' en Python se usa para cargar una librería o módulo en el código.",
+            "pista": "Se utiliza para acceder a funcionalidades adicionales, como la matemática o la manipulación de archivos."
+        },
+        {
+            "pregunta": "¿Cómo se declara una lista en Python?",
+            "opciones": [
+                "[]",
+                "{}",
+                "()",
+                "<>"
+            ],
+            "respuesta": 1,
+            "explicacion": "En Python, las listas se declaran utilizando corchetes [].",
+            "pista": "Las listas pueden contener múltiples elementos y son ordenadas."
+        },
+        {
+            "pregunta": "¿Qué función se usa para obtener la longitud de una lista en Python?",
+            "opciones": [
+                "length()",
+                "len()",
+                "size()",
+                "count()"
+            ],
+            "respuesta": 2,
+            "explicacion": "La función 'len()' devuelve el número de elementos en una lista u objeto iterable en Python.",
+            "pista": "Esta función es muy útil para manejar colecciones de datos."
+        },
+        {
+            "pregunta": "¿Cómo se define una función en Python?",
+            "opciones": [
+                "create mi_función():",
+                "func mi_función():",
+                "function mi_función():",
+                "def mi_función():"
+            ],
+            "respuesta": 4,
+            "explicacion": "Las funciones en Python se definen con la palabra clave 'def', seguida del nombre de la función.",
+            "pista": "Es la forma de organizar código para reutilizarlo."
+        },
+        {
+            "pregunta": "¿Qué operador se usa para la división en Python?",
+            "opciones": [
+                "/",
+                "//",
+                "%",
+                "**"
+            ],
+            "respuesta": 1,
+            "explicacion": "El operador '/' en Python se usa para realizar la división entre dos números.",
+            "pista": "Este operador devuelve el resultado decimal de la división."
+        },
+        {
+            "pregunta": "¿Cómo se define una variable en Python?",
+            "opciones": [
+                "variable = 10",
+                "let variable = 10",
+                "var variable = 10",
+                "int variable = 10"
+            ],
+            "respuesta": 1,
+            "explicacion": "En Python, las variables se definen simplemente asignando un valor sin necesidad de declarar el tipo.",
+            "pista": "No es necesario usar palabras clave como 'var' o 'let' como en otros lenguajes."
+        },
+        {
+            "pregunta": "¿Cuál de estas funciones convierte un número en texto en Python?",
+            "opciones": [
+                "str()",
+                "int()",
+                "float()",
+                "bool()"
+            ],
+            "respuesta": 1,
+            "explicacion": "La función 'str()' convierte un valor en su representación como cadena de texto.",
+            "pista": "Es útil cuando se quiere mostrar un número como parte de un mensaje."
+        },
+        {
+            "pregunta": "¿Qué significa el operador '==' en Python?",
+            "opciones": [
+                "Asignación",
+                "Comparación",
+                "Suma",
+                "Multiplicación"
+            ],
+            "respuesta": 2,
+            "explicacion": "El operador '==' en Python se usa para comparar si dos valores son iguales.",
+            "pista": "Es diferente del operador '=', que se usa para asignar valores."
+        },
+        {
+            "pregunta": "¿Cómo se crea un diccionario en Python?",
+            "opciones": [
+                "{}",
+                "[]",
+                "()",
+                "<>"
+            ],
+            "respuesta": 1,
+            "explicacion": "Un diccionario en Python se define utilizando llaves '{}', donde se almacenan pares de clave-valor.",
+            "pista": "Es una estructura de datos que permite el acceso a los elementos por claves."
+        },
+        {
+            "pregunta": "¿Qué función se usa para convertir un valor en entero en Python?",
+            "opciones": [
+                "float()",
+                "str()",
+                "int()",
+                "bool()"
+            ],
+            "respuesta": 3,
+            "explicacion": "La función 'int()' convierte un valor en su representación entera.",
+            "pista": "Es útil cuando se quiere trabajar con números enteros a partir de otros tipos."
+        },
+        {
+            "pregunta": "¿Cómo se crea un bucle 'for' en Python?",
+            "opciones": [
+                "for i in range(10):",
+                "for i=0; i<10; i++:",
+                "loop i in 10:",
+                "foreach i in range(10):"
+            ],
+            "respuesta": 1,
+            "explicacion": "El bucle 'for' en Python se usa con la palabra clave 'for' y la función 'range()' para iterar sobre una secuencia.",
+            "pista": "Se utiliza comúnmente para repetir tareas un número determinado de veces."
+        },
+        {
+            "pregunta": "¿Qué hace la función 'input()' en Python?",
+            "opciones": [
+                "Recibe una entrada del usuario",
+                "Muestra un mensaje en pantalla",
+                "Convierte un valor a entero",
+                "Calcula el valor máximo"
+            ],
+            "respuesta": 1,
+            "explicacion": "La función 'input()' en Python se usa para recibir datos del usuario a través del teclado.",
+            "pista": "Se utiliza cuando queremos que el usuario ingrese información durante la ejecución del programa."
+        },
+        {
+            "pregunta": "¿Cómo se maneja la excepción en Python?",
+            "opciones": [
+                "try...catch",
+                "try...except",
+                "try...finally",
+                "catch...except"
+            ],
+            "respuesta": 2,
+            "explicacion": "En Python, se usa 'try...except' para manejar excepciones y errores en el código.",
+            "pista": "Es útil para evitar que el programa se detenga por errores."
+        },
+        {
+            "pregunta": "¿Cómo se hace una multiplicación de dos números en Python?",
+            "opciones": [
+                "*",
+                "x",
+                "multiply",
+                "mul"
+            ],
+            "respuesta": 1,
+            "explicacion": "El operador '*' se usa en Python para multiplicar dos números.",
+            "pista": "Es el mismo operador que se usa para otras operaciones aritméticas."
+        },
+        {
+            "pregunta": "¿Qué palabra clave se usa para definir una clase en Python?",
+            "opciones": [
+                "object",
+                "class",
+                "define",
+                "type"
+            ],
+            "respuesta": 2,
+            "explicacion": "Se usa la palabra clave 'class' para definir una nueva clase en Python.",
+            "pista": "Las clases son plantillas para crear objetos."
+        },
+        {
+            "pregunta": "¿Qué palabra clave se usa para salir de un bucle en Python?",
+            "opciones": [
+                "break",
+                "stop",
+                "exit",
+                "end"
+            ],
+            "respuesta": 1,
+            "explicacion": "La palabra clave 'break' detiene la ejecución del bucle actual en Python.",
+            "pista": "Es muy útil cuando se cumple cierta condición dentro del bucle."
+        }
+    ],
+    "Geografía": [
+        {
+            "pregunta": "¿Cuál es la capital de Francia?",
+            "opciones": [
+                "Londres",
+                "Madrid",
+                "París",
+                "Roma"
+            ],
+            "respuesta": 3,
+            "explicacion": "La capital de Francia es París desde hace siglos.",
+            "pista": "Es una ciudad famosa por la Torre Eiffel y el Louvre."
+        },
+        {
+            "pregunta": "¿Qué río pasa por Egipto?",
+            "opciones": [
+                "Nilo",
+                "Amazonas",
+                "Danubio",
+                "Misisipi"
+            ],
+            "respuesta": 1,
+            "explicacion": "El Nilo atraviesa Egipto de sur a norte.",
+            "pista": "Este río fue vital para el desarrollo de la civilización del Antiguo Egipto."
+        },
+        {
+            "pregunta": "¿Cuál es la capital de Japón?",
+            "opciones": [
+                "Seúl",
+                "Tokio",
+                "Beijing",
+                "Osaka"
+            ],
+            "respuesta": 2,
+            "explicacion": "Tokio es la capital de Japón, una de las ciudades más grandes y avanzadas del mundo.",
+            "pista": "Es una de las ciudades más pobladas del mundo y está ubicada en la isla principal de Japón."
+        },
+        {
+            "pregunta": "¿Qué río es el más largo del mundo?",
+            "opciones": [
+                "Amazonas",
+                "Nilo",
+                "Yangtsé",
+                "Misisipi"
+            ],
+            "respuesta": 1,
+            "explicacion": "El Amazonas es el río más largo del mundo, aunque algunas fuentes aún discuten si el Nilo es más largo.",
+            "pista": "Este río atraviesa Sudamérica y es conocido por su selva tropical."
+        },
+        {
+            "pregunta": "¿Cuál es el desierto más grande del mundo?",
+            "opciones": [
+                "Sahara",
+                "Karakum",
+                "Atacama",
+                "Antártico"
+            ],
+            "respuesta": 4,
+            "explicacion": "El desierto Antártico es el más grande del mundo, aunque está cubierto de hielo, es considerado un desierto por su baja precipitación.",
+            "pista": "Este desierto está en el continente más frío y cubierto de hielo de la Tierra."
+        },
+        {
+            "pregunta": "¿En qué continente se encuentra el monte Everest?",
+            "opciones": [
+                "Asia",
+                "África",
+                "Europa",
+                "América"
+            ],
+            "respuesta": 1,
+            "explicacion": "El monte Everest, la montaña más alta del mundo, se encuentra en la cadena montañosa del Himalaya, en Asia.",
+            "pista": "Este continente alberga las montañas más altas y el Everest está en la frontera entre Nepal y China."
+        },
+        {
+            "pregunta": "¿Qué océano está al oeste de América del Norte?",
+            "opciones": [
+                "Atlántico",
+                "Índico",
+                "Pacífico",
+                "Ártico"
+            ],
+            "respuesta": 3,
+            "explicacion": "El océano Pacífico es el océano que está al oeste de América del Norte y es el más grande del planeta.",
+            "pista": "Es el océano más grande y cubre más del 30% de la superficie terrestre."
+        },
+        {
+            "pregunta": "¿Cuál es el país más grande del mundo por superficie?",
+            "opciones": [
+                "Canadá",
+                "Rusia",
+                "Estados Unidos",
+                "China"
+            ],
+            "respuesta": 2,
+            "explicacion": "Rusia es el país más grande del mundo, abarcando más de una octava parte de la tierra emergida del planeta.",
+            "pista": "Este país se extiende a través de Europa y Asia."
+        },
+        {
+            "pregunta": "¿Cuál es la capital de España?",
+            "opciones": [
+                "Lisboa",
+                "Madrid",
+                "Barcelona",
+                "Sevilla"
+            ],
+            "respuesta": 2,
+            "explicacion": "Madrid es la capital de España y una de las ciudades más grandes de Europa.",
+            "pista": "Es famosa por su Museo del Prado y la Plaza Mayor."
+        },
+        {
+            "pregunta": "¿Qué continente está formado por 54 países?",
+            "opciones": [
+                "Asia",
+                "América",
+                "Europa",
+                "África"
+            ],
+            "respuesta": 4,
+            "explicacion": "África es el segundo continente más grande del mundo y está compuesto por 54 países.",
+            "pista": "Este continente alberga países como Egipto, Sudáfrica y Nigeria."
+        },
+        {
+            "pregunta": "¿Qué país está compuesto por una serie de islas en el Caribe?",
+            "opciones": [
+                "Cuba",
+                "Japón",
+                "Italia",
+                "Australia"
+            ],
+            "respuesta": 1,
+            "explicacion": "Cuba es una isla caribeña y uno de los países más grandes de la región.",
+            "pista": "Es famosa por su música y su historia revolucionaria."
+        },
+        {
+            "pregunta": "¿En qué continente se encuentra el desierto del Sahara?",
+            "opciones": [
+                "Asia",
+                "África",
+                "América",
+                "Oceanía"
+            ],
+            "respuesta": 2,
+            "explicacion": "El Sahara es el desierto más grande de África y uno de los más calurosos del mundo.",
+            "pista": "Este desierto cubre una gran parte del norte de África."
+        },
+        {
+            "pregunta": "¿Cuál es el país con más habitantes del mundo?",
+            "opciones": [
+                "India",
+                "China",
+                "Estados Unidos",
+                "Indonesia"
+            ],
+            "respuesta": 2,
+            "explicacion": "China es el país con la mayor población mundial, superando a India.",
+            "pista": "Este país está en Asia y es conocido por su Gran Muralla."
+        },
+        {
+            "pregunta": "¿Qué país tiene forma de bota?",
+            "opciones": [
+                "España",
+                "Italia",
+                "Francia",
+                "Grecia"
+            ],
+            "respuesta": 2,
+            "explicacion": "Italia es conocida por su forma de bota, que se extiende hacia el sur de Europa.",
+            "pista": "Es famosa por su comida, como la pizza y la pasta."
+        },
+        {
+            "pregunta": "¿Qué continente tiene el mayor número de países?",
+            "opciones": [
+                "Asia",
+                "América",
+                "Europa",
+                "África"
+            ],
+            "respuesta": 4,
+            "explicacion": "África tiene 54 países, más que cualquier otro continente.",
+            "pista": "Este continente está lleno de culturas diversas y paisajes impresionantes."
+        },
+        {
+            "pregunta": "¿En qué país se encuentran las Pirámides de Giza?",
+            "opciones": [
+                "Egipto",
+                "México",
+                "India",
+                "Perú"
+            ],
+            "respuesta": 1,
+            "explicacion": "Las Pirámides de Giza, una de las maravillas del mundo antiguo, están ubicadas en Egipto.",
+            "pista": "Este país tiene una rica historia antigua que incluye faraones y monumentos impresionantes."
+        },
+        {
+            "pregunta": "¿Qué océano está al este de África?",
+            "opciones": [
+                "Atlántico",
+                "Índico",
+                "Pacífico",
+                "Ártico"
+            ],
+            "respuesta": 2,
+            "explicacion": "El océano Índico está al este de África y es el tercer océano más grande del mundo.",
+            "pista": "Este océano está entre África, Asia y Australia."
+        },
+        {
+            "pregunta": "¿En qué país se encuentra la ciudad de Buenos Aires?",
+            "opciones": [
+                "Chile",
+                "Brasil",
+                "Argentina",
+                "Uruguay"
+            ],
+            "respuesta": 3,
+            "explicacion": "Buenos Aires es la capital de Argentina, un importante centro cultural y económico de Sudamérica.",
+            "pista": "Este país es famoso por su tango y su carne."
+        },
+        {
+            "pregunta": "¿Qué continente está más cerca del Polo Norte?",
+            "opciones": [
+                "América",
+                "Asia",
+                "Antártida",
+                "Europa"
+            ],
+            "respuesta": 4,
+            "explicacion": "Europa es el continente más cercano al Polo Norte, con países como Noruega y Suecia en sus latitudes más altas.",
+            "pista": "Este continente está al norte de África y al oeste de Asia."
+        },
+        {
+            "pregunta": "¿Qué mar está entre Europa y África?",
+            "opciones": [
+                "Mar de Arabia",
+                "Mar Rojo",
+                "Mar Mediterráneo",
+                "Mar Caspio"
+            ],
+            "respuesta": 3,
+            "explicacion": "El Mar Mediterráneo es un mar que separa Europa y África, y conecta con el océano Atlántico.",
+            "pista": "Este mar ha sido un importante cruce de culturas y comercio durante siglos."
+        }
+    ],
+    "Deportes": [
+        {
+            "pregunta": "¿Quién tiene el récord de más goles en la historia de la Copa del Mundo?",
+            "opciones": [
+                "Lionel Messi",
+                "Cristiano Ronaldo",
+                "Alexia Putellas",
+                "Miroslav Klose"
+            ],
+            "respuesta": 4,
+            "explicacion": "Miroslav Klose, un delantero alemán, es el máximo goleador histórico de la Copa del Mundo con 16 goles.",
+            "pista": "Este jugador alemán rompió el récord durante la Copa del Mundo de 2014."
+        },
+        {
+            "pregunta": "¿En qué deporte se utiliza un balón ovalado?",
+            "opciones": [
+                "Fútbol",
+                "Baloncesto",
+                "Rugby",
+                "Voleibol"
+            ],
+            "respuesta": 3,
+            "explicacion": "En el rugby se utiliza un balón ovalado, lo que lo distingue de otros deportes que utilizan balones redondos.",
+            "pista": "Este deporte se juega mucho en países como Nueva Zelanda, Inglaterra y Sudáfrica."
+        },
+        {
+            "pregunta": "¿Qué país ganó la primera Copa del Mundo de Fútbol en 1930?",
+            "opciones": [
+                "Brasil",
+                "Argentina",
+                "Uruguay",
+                "Italia"
+            ],
+            "respuesta": 3,
+            "explicacion": "La primera Copa del Mundo de Fútbol se celebró en 1930 en Uruguay, y este país fue el campeón.",
+            "pista": "Este país también es conocido por su éxito en el fútbol a nivel internacional."
+        },
+        {
+            "pregunta": "¿En qué deporte se celebra el 'Super Bowl'?",
+            "opciones": [
+                "Fútbol americano",
+                "Fútbol",
+                "Béisbol",
+                "Baloncesto"
+            ],
+            "respuesta": 1,
+            "explicacion": "El 'Super Bowl' es la final del campeonato de fútbol americano, el evento deportivo más importante de este deporte en Estados Unidos.",
+            "pista": "Este evento se celebra anualmente en los Estados Unidos y es famoso por su espectáculo y los anuncios comerciales."
+        },
+        {
+            "pregunta": "¿Cuál es el nombre de la liga profesional de baloncesto en los Estados Unidos?",
+            "opciones": [
+                "NBA",
+                "NFL",
+                "NHL",
+                "MLS"
+            ],
+            "respuesta": 1,
+            "explicacion": "La NBA (National Basketball Association) es la liga profesional de baloncesto en los Estados Unidos, y cuenta con los mejores jugadores del mundo.",
+            "pista": "Esta liga es conocida por sus equipos como los Los Angeles Lakers y los Boston Celtics."
+        },
+        {
+            "pregunta": "¿Quién tiene el récord de más victorias en la historia de la Fórmula 1?",
+            "opciones": [
+                "Ayrton Senna",
+                "Alain Prost",
+                "Lewis Hamilton",
+                "Michael Schumacher"
+            ],
+            "respuesta": 3,
+            "explicacion": "Lewis Hamilton es el piloto con más victorias en la historia de la Fórmula 1, superando a Michael Schumacher.",
+            "pista": "Este piloto británico ha ganado múltiples campeonatos mundiales en los últimos años."
+        },
+        {
+            "pregunta": "¿Qué jugador es conocido como 'La Pulga'?",
+            "opciones": [
+                "Neymar",
+                "Cristiano Ronaldo",
+                "Lionel Messi",
+                "Kylian Mbappé"
+            ],
+            "respuesta": 3,
+            "explicacion": "'La Pulga' es el apodo de Lionel Messi, uno de los mejores futbolistas de la historia, originario de Argentina.",
+            "pista": "Este jugador ha jugado la mayor parte de su carrera en el FC Barcelona y luego en el PSG."
+        },
+        {
+            "pregunta": "¿En qué deporte se utiliza una raqueta para golpear una pelota?",
+            "opciones": [
+                "Fútbol",
+                "Tenis",
+                "Baloncesto",
+                "Voleibol"
+            ],
+            "respuesta": 2,
+            "explicacion": "El tenis es un deporte donde los jugadores utilizan raquetas para golpear una pelota y tratar de marcar puntos.",
+            "pista": "Este deporte se juega tanto en individuales como en dobles."
+        },
+        {
+            "pregunta": "¿Qué equipo ha ganado más títulos de la NBA?",
+            "opciones": [
+                "Los Angeles Lakers",
+                "Chicago Bulls",
+                "Boston Celtics",
+                "Golden State Warriors"
+            ],
+            "respuesta": 3,
+            "explicacion": "Los Boston Celtics y los Los Angeles Lakers están empatados con el mayor número de títulos de la NBA, con 17 cada uno.",
+            "pista": "Este equipo tiene una rica historia y leyendas como Bill Russell."
+        },
+        {
+            "pregunta": "¿En qué deporte se celebran los Juegos Olímpicos de Invierno?",
+            "opciones": [
+                "Bobsleigh",
+                "Esquí",
+                "Snowboard",
+                "Todos los anteriores"
+            ],
+            "respuesta": 4,
+            "explicacion": "Los Juegos Olímpicos de Invierno incluyen varios deportes como el bobsleigh, esquí y snowboard.",
+            "pista": "Estos juegos se celebran en lugares fríos con nieve y hielo."
+        },
+        {
+            "pregunta": "¿Qué país es famoso por su equipo nacional de rugby conocido como los 'All Blacks'?",
+            "opciones": [
+                "Australia",
+                "Nueva Zelanda",
+                "Sudáfrica",
+                "Inglaterra"
+            ],
+            "respuesta": 2,
+            "explicacion": "Los 'All Blacks' son el equipo nacional de rugby de Nueva Zelanda, conocidos por su haka y su dominio en el rugby internacional.",
+            "pista": "Este equipo tiene una gran rivalidad con Sudáfrica y Australia."
+        },
+        {
+            "pregunta": "¿Qué evento deportivo se celebra en Wimbledon?",
+            "opciones": [
+                "Fórmula 1",
+                "Fútbol",
+                "Tenis",
+                "Atletismo"
+            ],
+            "respuesta": 3,
+            "explicacion": "Wimbledon es uno de los cuatro torneos del Grand Slam de tenis y el único que se juega sobre césped.",
+            "pista": "Este torneo se celebra en Londres y es conocido por su ambiente tradicional y sus reglas estrictas de vestimenta."
+        },
+        {
+            "pregunta": "¿Qué equipo de fútbol ganó la Copa del Mundo de Fútbol en 2018?",
+            "opciones": [
+                "Brasil",
+                "Francia",
+                "Alemania",
+                "España"
+            ],
+            "respuesta": 2,
+            "explicacion": "Francia ganó la Copa del Mundo de Fútbol de 2018, derrotando a Croacia en la final.",
+            "pista": "Este equipo tiene una rica historia en el fútbol y ya había ganado el Mundial en 1998."
+        },
+        {
+            "pregunta": "¿En qué deporte se utilizan guantes para luchar?",
+            "opciones": [
+                "Fútbol",
+                "Béisbol",
+                "Boxeo",
+                "Tenis"
+            ],
+            "respuesta": 3,
+            "explicacion": "El boxeo es un deporte de combate en el que los atletas usan guantes especiales para protegerse durante el combate.",
+            "pista": "Este deporte se realiza en un cuadrilátero y se basa en técnicas de golpeo."
+        },
+        {
+            "pregunta": "¿Qué jugador de baloncesto es famoso por su apodo 'King James'?",
+            "opciones": [
+                "Kobe Bryant",
+                "Michael Jordan",
+                "LeBron James",
+                "Shaquille O'Neal"
+            ],
+            "respuesta": 3,
+            "explicacion": "LeBron James es un jugador de baloncesto estadounidense conocido por su apodo 'King James' y por su éxito en la NBA.",
+            "pista": "Este jugador ha jugado para los Cleveland Cavaliers, Miami Heat y Los Angeles Lakers."
+        },
+        {
+            "pregunta": "¿En qué deporte se utiliza un balón de cuero y se juega con las manos para anotar en canastas?",
+            "opciones": [
+                "Fútbol",
+                "Baloncesto",
+                "Voleibol",
+                "Béisbol"
+            ],
+            "respuesta": 2,
+            "explicacion": "El baloncesto es un deporte de equipo en el que se utiliza un balón de cuero y los jugadores intentan encestar en el aro del equipo contrario.",
+            "pista": "Este deporte se juega con dos equipos de cinco jugadores cada uno."
+        },
+        {
+            "pregunta": "¿Qué país es famoso por su selección de fútbol llamada 'La Roja'?",
+            "opciones": [
+                "Portugal",
+                "Argentina",
+                "España",
+                "México"
+            ],
+            "respuesta": 3,
+            "explicacion": "La Roja es el apodo de la selección de fútbol de España, conocida por su estilo de juego y sus éxitos internacionales.",
+            "pista": "Este equipo ganó la Copa del Mundo de 2010."
+        },
+        {
+            "pregunta": "¿En qué deporte se utilizan bicicletas para recorrer circuitos cerrados?",
+            "opciones": [
+                "Ciclismo",
+                "Motocross",
+                "Fórmula 1",
+                "Bicicross"
+            ],
+            "respuesta": 4,
+            "explicacion": "El bicicross, o BMX, es un deporte en el que los participantes compiten en circuitos cerrados utilizando bicicletas.",
+            "pista": "Este deporte es muy popular en las competencias juveniles."
+        },
+        {
+            "pregunta": "¿Qué país tiene la selección nacional de fútbol más exitosa en la historia de las Copas del Mundo?",
+            "opciones": [
+                "Brasil",
+                "Alemania",
+                "Italia",
+                "Argentina"
+            ],
+            "respuesta": 1,
+            "explicacion": "Brasil ha ganado cinco Copas del Mundo, más que cualquier otro país en la historia de la competición.",
+            "pista": "Este país es conocido por su estilo de juego ofensivo y por leyendas como Pelé."
+        }
+    ],
+    "Videojuegos": [
+        {
+            "pregunta": "¿Cómo se llama el fontanero protagonista de muchos juegos de Nintendo?",
+            "opciones": [
+                "Toad",
+                "Mario",
+                "Luigi",
+                "Yoshi"
+            ],
+            "respuesta": 2,
+            "explicacion": "Mario es el famoso personaje de Nintendo que protagoniza juegos como Super Mario Bros.",
+            "pista": "Viste de rojo y tiene un hermano vestido de verde."
+        },
+        {
+            "pregunta": "¿En qué juego tienes que construir con bloques y sobrevivir?",
+            "opciones": [
+                "Terraria",
+                "Roblox",
+                "Minecraft",
+                "Fortnite"
+            ],
+            "respuesta": 3,
+            "explicacion": "Minecraft es un juego de construcción y supervivencia en un mundo generado por bloques.",
+            "pista": "Los gráficos son de estilo pixelado en 3D."
+        },
+        {
+            "pregunta": "¿Qué animal es Sonic?",
+            "opciones": [
+                "Zorro",
+                "Ratón",
+                "Erizo",
+                "Gato"
+            ],
+            "respuesta": 3,
+            "explicacion": "Sonic es un erizo azul con gran velocidad, mascota de SEGA.",
+            "pista": "Es azul y corre muy rápido."
+        },
+        {
+            "pregunta": "¿Qué objeto se lanza en Mario Kart para detener a otros corredores?",
+            "opciones": [
+                "Caparazón",
+                "Estrella",
+                "Banana",
+                "Bomba"
+            ],
+            "respuesta": 1,
+            "explicacion": "En Mario Kart, los caparazones se usan como proyectiles para frenar a los rivales.",
+            "pista": "Hay versiones verdes, rojas y una muy temida de color azul."
+        },
+        {
+            "pregunta": "¿En qué juego debes atrapar criaturas y combatir con ellos?",
+            "opciones": [
+                "Pokémon",
+                "Kirby",
+                "Zelda",
+                "Metroid"
+            ],
+            "respuesta": 1,
+            "explicacion": "Pokémon es una franquicia donde capturas criaturas para entrenarlas y combatir.",
+            "pista": "Su eslogan es '¡Hazte con todos!'."
+        },
+        {
+            "pregunta": "¿Cuál es el nombre del personaje principal de 'The Legend of Zelda'?",
+            "opciones": [
+                "Link",
+                "Zelda",
+                "Sheik",
+                "Ganondorf"
+            ],
+            "respuesta": 1,
+            "explicacion": "Link es el héroe que protagoniza la saga The Legend of Zelda.",
+            "pista": "Aunque muchos piensan que Zelda es el protagonista, ese es el nombre de la princesa."
+        },
+        {
+            "pregunta": "¿En qué popular videojuego se combinan disparos con la construcción de estructuras durante la partida?",
+            "opciones": [
+                "Apex Legends",
+                "Fortnite",
+                "Call of Duty",
+                "PUBG"
+            ],
+            "respuesta": 2,
+            "explicacion": "Fortnite es un juego del tipo Battle Royale que se distingue por permitir a los jugadores construir estructuras durante el combate.",
+            "pista": "Además de disparar, puedes levantar paredes, rampas y su estilo es muy colorido."
+        },
+        {
+            "pregunta": "¿Qué consola lanzó Nintendo en 2006 con controles de movimiento?",
+            "opciones": [
+                "GameCube",
+                "Switch",
+                "DS",
+                "Wii"
+            ],
+            "respuesta": 4,
+            "explicacion": "La Wii revolucionó el mercado con sus controles sensibles al movimiento.",
+            "pista": "Tuvo juegos como Wii Sports y Just Dance."
+        },
+        {
+            "pregunta": "¿En qué juego eres un astronauta y debes descubrir al impostor?",
+            "opciones": [
+                "Subnautica",
+                "Among Us",
+                "Outer Wilds",
+                "Fall Guys"
+            ],
+            "respuesta": 2,
+            "explicacion": "Among Us es un juego multijugador donde unos son impostores y otros tripulantes.",
+            "pista": "El impostor puede sabotear y eliminar a los demás sin ser descubierto."
+        },
+        {
+            "pregunta": "¿Qué empresa desarrolló el juego 'Minecraft'?",
+            "opciones": [
+                "Mojang",
+                "Epic Games",
+                "Microsoft",
+                "Valve"
+            ],
+            "respuesta": 1,
+            "explicacion": "Mojang es la compañía sueca que creó Minecraft, antes de ser comprada por Microsoft.",
+            "pista": "Fue fundada por Markus Persson, también conocido como Notch."
+        },
+        {
+            "pregunta": "¿Cuál de estos personajes es un luchador en Super Smash Bros.?",
+            "opciones": [
+                "Kirby",
+                "Crash Bandicoot",
+                "Steve Jobs",
+                "Lara Croft"
+            ],
+            "respuesta": 1,
+            "explicacion": "Kirby es uno de los personajes clásicos jugables en Super Smash Bros.",
+            "pista": "Puede copiar habilidades de sus enemigos."
+        },
+        {
+            "pregunta": "¿Qué videojuego tiene como enemigo a Bowser?",
+            "opciones": [
+                "Zelda",
+                "Metroid",
+                "Pokémon",
+                "Super Mario"
+            ],
+            "respuesta": 4,
+            "explicacion": "Bowser es el principal villano de la franquicia Super Mario.",
+            "pista": "Siempre intenta secuestrar a la Princesa Peach."
+        },
+        {
+            "pregunta": "¿Cuál de estos juegos es de disparos en primera persona?",
+            "opciones": [
+                "FIFA",
+                "Animal Crossing",
+                "Call of Duty",
+                "Mario Party"
+            ],
+            "respuesta": 3,
+            "explicacion": "Call of Duty es una saga de juegos de disparos en primera persona.",
+            "pista": "Muy popular en modo multijugador online."
+        },
+        {
+            "pregunta": "¿Qué juego simula la vida diaria en una isla con vecinos animales?",
+            "opciones": [
+                "Harvest Moon",
+                "Animal Crossing",
+                "The Sims",
+                "Stardew Valley"
+            ],
+            "respuesta": 2,
+            "explicacion": "Animal Crossing te permite decorar, socializar y vivir en una isla con personajes animales.",
+            "pista": "Es muy relajante y se volvió muy popular durante la pandemia."
+        },
+        {
+            "pregunta": "¿Qué es una 'skin' en videojuegos?",
+            "opciones": [
+                "Un arma secreta",
+                "Un nivel nuevo",
+                "Apariencia estética",
+                "Una vida extra"
+            ],
+            "respuesta": 3,
+            "explicacion": "Una 'skin' cambia la apariencia de un personaje u objeto sin afectar su rendimiento.",
+            "pista": "No cambia cómo juegas, solo cómo se ve tu personaje."
+        },
+        {
+            "pregunta": "¿Qué consola portátil tiene dos pantallas y fue lanzada por Nintendo?",
+            "opciones": [
+                "PSP",
+                "Nintendo DS",
+                "Game Boy Color",
+                "Switch Lite"
+            ],
+            "respuesta": 2,
+            "explicacion": "La Nintendo DS tenía dos pantallas, una de ellas táctil, e innovó en juegos portátiles.",
+            "pista": "Las siglas significan 'Dual Screen'."
+        },
+        {
+            "pregunta": "¿Cuál es el objetivo principal en Tetris?",
+            "opciones": [
+                "Encajar piezas",
+                "Saltar niveles",
+                "Cazar enemigos",
+                "Resolver acertijos"
+            ],
+            "respuesta": 1,
+            "explicacion": "En Tetris debes encajar bloques para formar líneas sin dejar espacios.",
+            "pista": "Las piezas se llaman 'tetriminos'."
+        },
+        {
+            "pregunta": "¿Qué personaje es famoso por decir 'It's-a me, Mario!'?",
+            "opciones": [
+                "Wario",
+                "Mario",
+                "Peach",
+                "Luigi"
+            ],
+            "respuesta": 2,
+            "explicacion": "Mario, el icónico personaje de Nintendo, dice esta frase desde los años 90.",
+            "pista": "Tiene un bigote y un gorro rojo."
+        },
+        {
+            "pregunta": "¿Qué tipo de juego es FIFA?",
+            "opciones": [
+                "Terror",
+                "Deportes",
+                "Aventura",
+                "Puzzle"
+            ],
+            "respuesta": 2,
+            "explicacion": "FIFA es un simulador de fútbol con licencias de equipos reales.",
+            "pista": "Se basa en el deporte más popular del mundo."
+        },
+        {
+            "pregunta": "¿Cuál de estos videojuegos trata sobre explorar el espacio con una nave?",
+            "opciones": [
+                "Genshin Impact",
+                "No Man's Sky",
+                "Minecraft",
+                "Overwatch"
+            ],
+            "respuesta": 2,
+            "explicacion": "En No Man's Sky exploras planetas y galaxias generadas proceduralmente.",
+            "pista": "Su mundo es casi infinito y puedes descubrir planetas únicos."
+        }
+    ],
+    "Historia": [
+        {
+            "pregunta": "¿Quién descubrió América en 1492?",
+            "opciones": [
+                "Américo Vespucio",
+                "Cristóbal Colón",
+                "Hernán Cortés",
+                "Fernando de Magallanes"
+            ],
+            "respuesta": 2,
+            "explicacion": "Cristóbal Colón llegó a América el 12 de octubre de 1492 bajo los Reyes Católicos.",
+            "pista": "Zarpó con tres carabelas desde España."
+        },
+        {
+            "pregunta": "¿En qué país se originó la Revolución Francesa?",
+            "opciones": [
+                "Italia",
+                "Alemania",
+                "Francia",
+                "España"
+            ],
+            "respuesta": 3,
+            "explicacion": "La Revolución Francesa comenzó en 1789 y cambió el orden político en Europa.",
+            "pista": "El lema fue: libertad, igualdad y fraternidad."
+        },
+        {
+            "pregunta": "¿Qué civilización construyó las pirámides?",
+            "opciones": [
+                "Romanos",
+                "Egipcios",
+                "Mayas",
+                "Persas"
+            ],
+            "respuesta": 2,
+            "explicacion": "Las pirámides fueron construidas por los antiguos egipcios como tumbas para faraones.",
+            "pista": "Vivían a orillas del Nilo."
+        },
+        {
+            "pregunta": "¿Quién fue el primer emperador romano?",
+            "opciones": [
+                "Julio César",
+                "Trajano",
+                "Nerón",
+                "Augusto"
+            ],
+            "respuesta": 4,
+            "explicacion": "Augusto fue el primer emperador de Roma tras la caída de la república.",
+            "pista": "Fue hijo adoptivo de Julio César."
+        },
+        {
+            "pregunta": "¿Qué muro separó la capital de Alemania durante la Guerra Fría?",
+            "opciones": [
+                "Muro de Berlín",
+                "Muro de los Lamentos",
+                "Gran Muralla",
+                "Muro de Hierro"
+            ],
+            "respuesta": 1,
+            "explicacion": "El Muro de Berlín dividió la ciudad entre el Este comunista y el Oeste capitalista.",
+            "pista": "Cayó en 1989."
+        },
+        {
+            "pregunta": "¿En qué año terminó la Segunda Guerra Mundial?",
+            "opciones": [
+                "1945",
+                "1939",
+                "1950",
+                "1918"
+            ],
+            "respuesta": 1,
+            "explicacion": "La Segunda Guerra Mundial terminó en 1945 con la rendición de Alemania y Japón.",
+            "pista": "El conflicto duró seis años."
+        },
+        {
+            "pregunta": "¿Quién fue el líder del movimiento pacifista en la independencia de la India?",
+            "opciones": [
+                "Nehru",
+                "Gandhi",
+                "Mandela",
+                "Buda"
+            ],
+            "respuesta": 2,
+            "explicacion": "Mahatma Gandhi lideró la independencia de la India con resistencia pacífica.",
+            "pista": "Vestía de forma sencilla y promovía la no violencia."
+        },
+        {
+            "pregunta": "¿Qué gran imperio tenía su capital en Roma?",
+            "opciones": [
+                "Imperio Persa",
+                "Imperio Romano",
+                "Imperio Bizantino",
+                "Imperio Otomano"
+            ],
+            "respuesta": 2,
+            "explicacion": "El Imperio Romano dominó gran parte de Europa y el Mediterráneo durante siglos.",
+            "pista": "Usaban latín y gladiadores."
+        },
+        {
+            "pregunta": "¿Quién fue el dictador alemán durante la Segunda Guerra Mundial?",
+            "opciones": [
+                "Benito Mussolini",
+                "Josef Stalin",
+                "Adolf Hitler",
+                "Franco"
+            ],
+            "respuesta": 3,
+            "explicacion": "Adolf Hitler lideró la Alemania nazi y provocó la Segunda Guerra Mundial.",
+            "pista": "Escribió 'Mi lucha'."
+        },
+        {
+            "pregunta": "¿Qué civilización habitó primero en América Central?",
+            "opciones": [
+                "Aztecas",
+                "Incas",
+                "Olmecas",
+                "Griegos"
+            ],
+            "respuesta": 3,
+            "explicacion": "Los olmecas fueron una de las primeras civilizaciones mesoamericanas.",
+            "pista": "Conocidos por sus cabezas colosales de piedra."
+        },
+        {
+            "pregunta": "¿Cuál fue la causa principal de la Primera Guerra Mundial?",
+            "opciones": [
+                "Caída del muro de Berlín",
+                "Asesinato del archiduque Francisco Fernando",
+                "Bombardeo de Pearl Harbor",
+                "Crisis del 29"
+            ],
+            "respuesta": 2,
+            "explicacion": "El asesinato en Sarajevo de Francisco Fernando de Austria en 1914 fue el detonante.",
+            "pista": "Ocurrió en Sarajevo."
+        },
+        {
+            "pregunta": "¿Qué país colonizó gran parte de América del Sur?",
+            "opciones": [
+                "España",
+                "Francia",
+                "Italia",
+                "Inglaterra"
+            ],
+            "respuesta": 1,
+            "explicacion": "España fue la principal potencia colonizadora de América del Sur durante los siglos XVI y XVII.",
+            "pista": "Sus exploradores hablaban español."
+        },
+        {
+            "pregunta": "¿Qué faraón egipcio es famoso por su tumba intacta?",
+            "opciones": [
+                "Tutankamón",
+                "Ramsés II",
+                "Cleopatra",
+                "Akenatón"
+            ],
+            "respuesta": 1,
+            "explicacion": "La tumba de Tutankamón fue descubierta casi intacta en 1922.",
+            "pista": "Su tumba fue encontrada por Howard Carter."
+        },
+        {
+            "pregunta": "¿Quién fue Simón Bolívar?",
+            "opciones": [
+                "Rey español",
+                "Conquistador",
+                "Libertador de América",
+                "Emperador mexicano"
+            ],
+            "respuesta": 3,
+            "explicacion": "Simón Bolívar luchó por la independencia de varios países sudamericanos.",
+            "pista": "Lideró movimientos en Venezuela, Colombia y Perú."
+        },
+        {
+            "pregunta": "¿Qué civilización construyó Machu Picchu?",
+            "opciones": [
+                "Aztecas",
+                "Mayas",
+                "Incas",
+                "Olmecas"
+            ],
+            "respuesta": 3,
+            "explicacion": "Los incas construyeron Machu Picchu en lo alto de los Andes peruanos.",
+            "pista": "Su capital fue Cuzco."
+        },
+        {
+            "pregunta": "¿Qué evento marcó el inicio de la Edad Media?",
+            "opciones": [
+                "Descubrimiento de América",
+                "Caída del Imperio Romano",
+                "Invención de la imprenta",
+                "Reforma protestante"
+            ],
+            "respuesta": 2,
+            "explicacion": "La Edad Media comenzó tras la caída del Imperio Romano en el siglo V.",
+            "pista": "Ocurrió en el año 476 d.C."
+        },
+        {
+            "pregunta": "¿Qué gran invento hizo Gutenberg?",
+            "opciones": [
+                "La brújula",
+                "La imprenta",
+                "La pólvora",
+                "El telescopio"
+            ],
+            "respuesta": 2,
+            "explicacion": "Gutenberg inventó la imprenta de tipos móviles en el siglo XV.",
+            "pista": "Permitió imprimir la Biblia en masa."
+        },
+        {
+            "pregunta": "¿Quién fue el conquistador del Imperio Azteca?",
+            "opciones": [
+                "Francisco Pizarro",
+                "Hernán Cortés",
+                "Cristóbal Colón",
+                "Pedro de Valdivia"
+            ],
+            "respuesta": 2,
+            "explicacion": "Hernán Cortés lideró la conquista del Imperio Azteca en 1521.",
+            "pista": "Se enfrentó a Moctezuma."
+        },
+        {
+            "pregunta": "¿Qué guerra se libró entre el norte y el sur de Estados Unidos?",
+            "opciones": [
+                "Primera Guerra Mundial",
+                "Guerra Civil",
+                "Guerra de Independencia",
+                "Guerra de Corea"
+            ],
+            "respuesta": 2,
+            "explicacion": "La Guerra Civil estadounidense se libró entre 1861 y 1865 por la abolición de la esclavitud.",
+            "pista": "Abraham Lincoln fue presidente durante esta guerra."
+        },
+        {
+            "pregunta": "¿Qué líder sudafricano luchó contra el apartheid?",
+            "opciones": [
+                "Nelson Mandela",
+                "Martin Luther King",
+                "Gandhi",
+                "Barack Obama"
+            ],
+            "respuesta": 1,
+            "explicacion": "Nelson Mandela pasó 27 años en prisión por luchar contra el sistema racista del apartheid.",
+            "pista": "Fue presidente de Sudáfrica después de salir de prisión."
+        }
+    ],
+    "Cultura General": [
+        {
+            "pregunta": "¿Qué número romano representa al 50?",
+            "opciones": [
+                "L",
+                "V",
+                "X",
+                "C"
+            ],
+            "respuesta": 1,
+            "explicacion": "En números romanos, L representa 50.",
+            "pista": "Es la letra que se encuentra entre la K y la M en el abecedario."
+        },
+        {
+            "pregunta": "¿Cuál es el símbolo químico del sodio?",
+            "opciones": [
+                "Na",
+                "So",
+                "S",
+                "Sn"
+            ],
+            "respuesta": 1,
+            "explicacion": "El símbolo del sodio es 'Na', del latín 'natrium'.",
+            "pista": "No coincide con su nombre en español."
+        },
+        {
+            "pregunta": "¿Qué autor escribió 'Cien años de soledad'?",
+            "opciones": [
+                "Mario Vargas Llosa",
+                "Pablo Neruda",
+                "Gabriel García Márquez",
+                "Isabel Allende"
+            ],
+            "respuesta": 3,
+            "explicacion": "Gabriel García Márquez escribió esta obra maestra del realismo mágico.",
+            "pista": "Es colombiano y ganó el Nobel."
+        },
+        {
+            "pregunta": "¿Cuál es el hueso más largo del cuerpo humano?",
+            "opciones": [
+                "Fémur",
+                "Radio",
+                "Tibia",
+                "Húmero"
+            ],
+            "respuesta": 1,
+            "explicacion": "El fémur es el hueso del muslo y el más largo del cuerpo.",
+            "pista": "Se encuentra en la pierna."
+        },
+        {
+            "pregunta": "¿Qué religión practica la meditación como uno de sus pilares?",
+            "opciones": [
+                "Budismo",
+                "Cristianismo",
+                "Islam",
+                "Judaísmo"
+            ],
+            "respuesta": 1,
+            "explicacion": "La meditación es una práctica esencial en el budismo.",
+            "pista": "Se originó en Asia y no adora a un dios personal."
+        },
+        {
+            "pregunta": "¿Cuál es el nombre de la sustancia que da color a la piel?",
+            "opciones": [
+                "Melanina",
+                "Colágeno",
+                "Queratina",
+                "Hemoglobina"
+            ],
+            "respuesta": 1,
+            "explicacion": "La melanina determina el color de la piel, ojos y cabello.",
+            "pista": "Su nombre empieza con 'mela-' y está relacionada con el sol."
+        },
+        {
+            "pregunta": "¿Cuál es el país de origen del sushi?",
+            "opciones": [
+                "China",
+                "Japón",
+                "Corea del Sur",
+                "Tailandia"
+            ],
+            "respuesta": 2,
+            "explicacion": "El sushi es un platillo tradicional japonés a base de arroz y pescado.",
+            "pista": "Es una isla en Asia y su capital es Tokio."
+        },
+        {
+            "pregunta": "¿En qué parte del cuerpo se encuentra la córnea?",
+            "opciones": [
+                "Nariz",
+                "Oído",
+                "Ojo",
+                "Boca"
+            ],
+            "respuesta": 3,
+            "explicacion": "La córnea es la capa transparente frontal del ojo.",
+            "pista": "Nos permite ver con claridad."
+        },
+        {
+            "pregunta": "¿Cuál es el libro más vendido de todos los tiempos?",
+            "opciones": [
+                "La Biblia",
+                "El Quijote",
+                "Harry Potter",
+                "El Señor de los Anillos"
+            ],
+            "respuesta": 1,
+            "explicacion": "La Biblia es el libro más distribuido y vendido en el mundo.",
+            "pista": "Es un texto religioso."
+        },
+        {
+            "pregunta": "¿Qué científico formuló la ley de la gravedad?",
+            "opciones": [
+                "Albert Einstein",
+                "Isaac Newton",
+                "Galileo Galilei",
+                "Stephen Hawking"
+            ],
+            "respuesta": 2,
+            "explicacion": "Newton formuló la ley de la gravedad al observar una manzana caer.",
+            "pista": "Su nombre está ligado a una fruta que cae."
+        },
+        {
+            "pregunta": "¿Cuál es el idioma oficial de Brasil?",
+            "opciones": [
+                "Portugués",
+                "Español",
+                "Inglés",
+                "Francés"
+            ],
+            "respuesta": 1,
+            "explicacion": "A diferencia del resto de América Latina, Brasil habla portugués.",
+            "pista": "Es el idioma de Portugal."
+        },
+        {
+            "pregunta": "¿Qué país inventó el papel?",
+            "opciones": [
+                "India",
+                "Egipto",
+                "China",
+                "Grecia"
+            ],
+            "respuesta": 3,
+            "explicacion": "El papel fue inventado en China hace más de 2000 años.",
+            "pista": "También inventaron la pólvora y la brújula."
+        },
+        {
+            "pregunta": "¿Qué vitamina se produce con la exposición al sol?",
+            "opciones": [
+                "Vitamina D",
+                "Vitamina C",
+                "Vitamina A",
+                "Vitamina B"
+            ],
+            "respuesta": 1,
+            "explicacion": "El cuerpo humano produce vitamina D con la luz solar.",
+            "pista": "Es crucial para los huesos."
+        },
+        {
+            "pregunta": "¿Qué nombre recibe un polígono de ocho lados?",
+            "opciones": [
+                "Heptágono",
+                "Pentágono",
+                "Octágono",
+                "Decágono"
+            ],
+            "respuesta": 3,
+            "explicacion": "El prefijo 'octa-' significa ocho.",
+            "pista": "Tiene el mismo número de lados que una señal de alto."
+        },
+        {
+            "pregunta": "¿En qué país se encuentra la Torre de Pisa?",
+            "opciones": [
+                "España",
+                "Francia",
+                "Italia",
+                "Grecia"
+            ],
+            "respuesta": 3,
+            "explicacion": "La Torre Inclinada está ubicada en Pisa, Italia.",
+            "pista": "El mismo país que el Coliseo."
+        },
+        {
+            "pregunta": "¿Cuál es el nombre del satélite natural de la Tierra?",
+            "opciones": [
+                "Marte",
+                "Sol",
+                "Luna",
+                "Estrella"
+            ],
+            "respuesta": 3,
+            "explicacion": "La Luna es el único satélite natural de la Tierra.",
+            "pista": "La vemos en el cielo por la noche."
+        },
+        {
+            "pregunta": "¿Cuál es el país más pequeño del mundo?",
+            "opciones": [
+                "Mónaco",
+                "San Marino",
+                "Vaticano",
+                "Liechtenstein"
+            ],
+            "respuesta": 3,
+            "explicacion": "El Vaticano es un país independiente dentro de Roma.",
+            "pista": "Allí vive el Papa."
+        },
+        {
+            "pregunta": "¿Cuál es la ciencia que estudia los seres vivos?",
+            "opciones": [
+                "Física",
+                "Química",
+                "Biología",
+                "Geología"
+            ],
+            "respuesta": 3,
+            "explicacion": "La biología estudia la vida en todas sus formas.",
+            "pista": "Su nombre empieza con 'bio'."
+        },
+        {
+            "pregunta": "¿Qué famoso físico desarrolló la teoría de la relatividad?",
+            "opciones": [
+                "Newton",
+                "Tesla",
+                "Bohr",
+                "Einstein"
+            ],
+            "respuesta": 4,
+            "explicacion": "Einstein formuló la teoría de la relatividad en 1905.",
+            "pista": "Su apellido empieza con 'E' y su imagen es icónica."
+        },
+        {
+            "pregunta": "¿Qué país tiene forma de bota en un mapa?",
+            "opciones": [
+                "Portugal",
+                "Italia",
+                "Chile",
+                "India"
+            ],
+            "respuesta": 2,
+            "explicacion": "Italia tiene una forma muy característica similar a una bota.",
+            "pista": "También es famoso por su pizza y pasta."
+        }
+    ]
+  }
