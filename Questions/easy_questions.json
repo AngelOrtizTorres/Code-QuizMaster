@@ -15,12 +15,12 @@
         {
             "pregunta": "¿Qué hace el comando 'print' en Python?",
             "opciones": [
-                "Muestra un mensaje en la pantalla",
+                "Detiene el programa",
                 "Calcula un valor",
                 "Define una función",
-                "Detiene el programa"
+                "Muestra un mensaje en la pantalla"
             ],
-            "respuesta": 1,
+            "respuesta": 4,
             "explicacion": "El comando 'print' en Python imprime un mensaje o valor en la pantalla.",
             "pista": "Se usa para mostrar información al usuario."
         },
@@ -207,12 +207,12 @@
         {
             "pregunta": "¿Cómo se hace una multiplicación de dos números en Python?",
             "opciones": [
-                "*",
                 "x",
+                "*",
                 "multiply",
                 "mul"
             ],
-            "respuesta": 1,
+            "respuesta": 2,
             "explicacion": "El operador '*' se usa en Python para multiplicar dos números.",
             "pista": "Es el mismo operador que se usa para otras operaciones aritméticas."
         },
