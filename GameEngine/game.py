@@ -56,7 +56,7 @@ class Game:
         except FileNotFoundError:
             return [f"Archivo no encontrado: {file_path}"]
         except json.JSONDecodeError:
-            return [f"No hay registro de partidas en: {file_path}"]
+            return [f"No hay registro de partidas"]
 
     def __apply_difficulty_penalty(self):
         if self.__difficulty == "Difícil":

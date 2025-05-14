@@ -19,5 +19,12 @@
         "score": 50,
         "lives": 3,
         "used_hint": 1
+    },
+    {
+        "name": "Angel",
+        "category": "Geografía",
+        "score": 50,
+        "lives": 3,
+        "used_hint": 1
     }
 ]
