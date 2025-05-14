@@ -485,16 +485,16 @@
     ],
     "Deportes": [
         {
-            "pregunta": "¿Quién tiene el récord de más goles en la historia de la Copa del Mundo?",
-            "opciones": [
-                "Lionel Messi",
-                "Cristiano Ronaldo",
-                "Alexia Putellas",
-                "Miroslav Klose"
-            ],
-            "respuesta": 4,
-            "explicacion": "Miroslav Klose, un delantero alemán, es el máximo goleador histórico de la Copa del Mundo con 16 goles.",
-            "pista": "Este jugador alemán rompió el récord durante la Copa del Mundo de 2014."
+        "pregunta": "¿Quién marcó el gol de la victoria en la final de la Copa Mundial de la FIFA 2010?",
+        "opciones": [
+            "Xavi Hernández",
+            "Andrés Iniesta",
+            "David Villa",
+            "Fernando Torres"
+        ],
+        "respuesta": 2,
+        "explicacion": "Andrés Iniesta marcó el único gol del partido en tiempo suplementario, dándole a España su primer título mundial al vencer 1-0 a los Países Bajos.",
+        "pista": "Este mediocampista español jugaba en el FC Barcelona y fue clave en el estilo 'tiki-taka'."
         },
         {
             "pregunta": "¿En qué deporte se utiliza un balón ovalado?",
@@ -573,12 +573,12 @@
             "opciones": [
                 "Fútbol",
                 "Tenis",
-                "Baloncesto",
+                "Pádel",
                 "Voleibol"
             ],
             "respuesta": 2,
             "explicacion": "El tenis es un deporte donde los jugadores utilizan raquetas para golpear una pelota y tratar de marcar puntos.",
-            "pista": "Este deporte se juega tanto en individuales como en dobles."
+            "pista": "En este deporte jugaba Rafael Nadal."
         },
         {
             "pregunta": "¿Qué equipo ha ganado más títulos de la NBA?",
@@ -589,7 +589,7 @@
                 "Golden State Warriors"
             ],
             "respuesta": 3,
-            "explicacion": "Los Boston Celtics y los Los Angeles Lakers están empatados con el mayor número de títulos de la NBA, con 17 cada uno.",
+            "explicacion": "Los Boston Celtics y los Los Angeles Lakers estaban empatados con el mayor número de títulos de la NBA, con 17 cada uno, pero los Celtics lograron ganar 18.",
             "pista": "Este equipo tiene una rica historia y leyendas como Bill Russell."
         },
         {
