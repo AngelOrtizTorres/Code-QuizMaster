@@ -69,9 +69,9 @@ while True:
                     print(f"  {i}. {opcion}")
                 print()
 
-                use_hint = input("¿Quieres usar una pista? (S/N): ").upper()
+                use = input("¿Quieres usar una pista? (S/N): ").upper()
                 
-                hint_feedback = game.consume_hint(use_hint, player, question_)
+                hint_feedback = game.consume_hint(use, player, question_)
                 print(hint_feedback)
 
                 user_answer = input("¿Cuál es la respuesta correcta? ")

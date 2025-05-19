@@ -27,7 +27,12 @@ class Game:
 
 
     def evaluate_answer(self, answer, question: dict):
-        if answer == question["respuesta"] - 1:
+        try:
+            user_answer_index = int(answer) - 1  
+        except ValueError:
+            return "incorrect"  
+        
+        if user_answer_index == question["respuesta"] - 1:
             self.__player.score.add_score(5)
             return "correct"
         else:
