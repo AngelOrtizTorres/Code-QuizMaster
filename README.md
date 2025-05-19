@@ -6,6 +6,20 @@
 
 ---
 
+## Ejecución del programa
+
+Para poder ejecutar de este juego debes hacer lo siguiente:
+
+1. Debes clonar el repositorio de github a tu ordenador
+```git
+git clone https://github.com/AngelOrtizTorres/Code-QuizMaster
+```
+2. Accede al módulo main.py y ejecútalo.
+
+Y ya podrías disfrutar de *Code QuizMaster*
+
+---
+
 ## Menú Principal
 
 El juego presenta el siguiente menú de opciones:
